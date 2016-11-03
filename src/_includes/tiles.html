@@ -1,13 +1,39 @@
-<section id="one" class="tiles">
+<div class="jcarousel-wrapper">
+    <div class="jcarousel">
+        <section id="one" class="tiles -highlight">
+          {% for post in site.posts limit:site.tiles-count %}
+            {% if post.highlight != null %}
+              <article class="highlight -i{{forloop.index | modulo:6}}" >
+                <span class="image">
+                  <img src="/assets/images/home/thumb/{{ post.image }}" alt="" />
+                </span>
+                <header class="major">
+                  <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
+                  <p>{{ post.description }}</p>
+                </header>
+              </article>
+            {%endif%}
+          {% endfor %}
+        </section>
+        
+        <a href="#" class="jcarousel-control-prev">&lsaquo;</a>
+        <a href="#" class="jcarousel-control-next">&rsaquo;</a>
+
+    </div>
+</div>
+
+<section id="one2" class="tiles">
   {% for post in site.posts limit:site.tiles-count %}
-  <article {% if post.highlight != null %} class="highlight" {%endif%} >
-    <span class="image">
-      <img src="{{ post.image }}" alt="" />
-    </span>
-    <header class="major">
-      <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
-      <p>{{ post.description }}</p>
-    </header>
-  </article>
+    {% if post.highlight == null %}
+      <article class="-i{{forloop.index | modulo:6}}">
+        <span class="image">
+          <img src="/assets/images/home/thumb/{{ post.image }}" alt="" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
+          <p>{{ post.description }}</p>
+        </header>
+      </article>
+    {%endif%}
   {% endfor %}
 </section>

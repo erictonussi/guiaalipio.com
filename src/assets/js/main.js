@@ -352,5 +352,48 @@
     lightbox.option({
       'albumLabel': 'Imagem %1 of %2'
     })
+    
+    $.fn.randomize = function(selector){
+        var $elems = selector ? $(this).find(selector) : $(this).children(),
+            $parents = $elems.parent();
+
+        $parents.each(function(){
+            $(this).children(selector).sort(function(){
+                return Math.round(Math.random()) - 0.5;
+            // }). remove().appendTo(this); // 2014-05-24: Removed `random` but leaving for reference. See notes under 'ANOTHER EDIT'
+            }).detach().appendTo(this);
+        });
+
+        return this;
+    };
+    
+    $('.tiles').randomize('article');
+    
+    var jcarousel = $('.jcarousel').jcarousel({
+      wrap: 'circular'
+    })
+     .jcarouselAutoscroll();
+
+    $('.jcarousel-control-prev')
+        .on('jcarouselcontrol:active', function() {
+            $(this).removeClass('inactive');
+        })
+        .on('jcarouselcontrol:inactive', function() {
+            $(this).addClass('inactive');
+        })
+        .jcarouselControl({
+            target: '-=1'
+        });
+
+    $('.jcarousel-control-next')
+        .on('jcarouselcontrol:active', function() {
+            $(this).removeClass('inactive');
+        })
+        .on('jcarouselcontrol:inactive', function() {
+            $(this).addClass('inactive');
+        })
+        .jcarouselControl({
+            target: '+=1'
+        });
 
 })(jQuery);

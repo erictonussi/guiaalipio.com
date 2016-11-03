@@ -34,6 +34,8 @@ GEM
       jekyll (~> 3.1)
     jekyll-sitemap (0.12.0)
       jekyll (~> 3.3)
+    jekyll-tagging (1.0.1)
+      ruby-nuggets
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -43,6 +45,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     multipart-post (2.0.0)
+    nuggets (1.0.0)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -52,6 +55,8 @@ GEM
       ffi (>= 0.5.0)
     redcarpet (3.3.4)
     rouge (1.11.1)
+    ruby-nuggets (1.0.0)
+      nuggets (= 1.0.0)
     safe_yaml (1.0.4)
     sass (3.4.22)
     sawyer (0.7.0)
@@ -71,6 +76,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-tagging
   redcarpet
 
 BUNDLED WITH

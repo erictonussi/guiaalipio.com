@@ -7,17 +7,16 @@ image:
 author: 
 nav-menu: 
 ---
-
 <!-- Banner -->
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
-			<h1>{{ page.landing-title }}</h1>
+			<h1>Guia de serviços de seu bairro e região</h1>
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">{{ site.description }}</p>
+			<p style="text-transform: uppercase;">Quer anunciar?</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Clique e saiba mais</a></li>
 			</ul>
 		</div>
 	</div>
@@ -33,11 +32,12 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Sobre o Guia Alípio</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p> O Guia Alípio surgiu da necessidade de integração entre serviços, comércio e moradores do bairro Alípio de Melo e região.  
+		Conhecendo o espaço que nos cerca, poupamos tempo, dinheiro e criamos uma rede de interações cada vez mais fortalecida. E aí, vamos aquecer nossa região?</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
+			<li><a href="landing.html" class="button next">O que você procura?</a></li>
 		</ul>
 	</div>
 </section>

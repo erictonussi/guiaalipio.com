@@ -11,3 +11,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem 'jekyll-redirect-from'
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-tagging'

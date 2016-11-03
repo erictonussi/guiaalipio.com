@@ -1,18 +1,7 @@
-<!DOCTYPE html>
-<!--
-    Forty by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-{% include head.html %}
-
-<body>
-
-    {% include header.html %} 
-    
-    
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -27,31 +16,36 @@
         <div class="row">
 
             <div class="6u 12u(small)" >
+
                 <div class="box alt">
                     <div class="row 50% uniform">
-                        <div class="12u"><span class="image fit">
-                            <a href="assets/images/pic08.jpg" data-lightbox="image-1" data-title="My caption">
-                                <img src="assets/images/pic08.jpg" alt="" />
-                            </a>
-                        </span></div>
-                        <div class="4u"><span class="image fit">
-                            <a href="assets/images/pic09.jpg" data-lightbox="image-1" data-title="My caption">
-                                <img src="assets/images/pic09.jpg" alt="" />
-                            </a>
-                        </span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-                        <div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+                        <div class="12u">
+                            <span class="image fit">
+                                <a href="/assets/images/home/originais/{{ page.image }}" data-lightbox="image-1" data-title="{{alt}}">
+                                    <img src="/assets/images/home/originais/{{ page.image }}" alt="{{alt}}" />
+                                </a>
+                            </span>
+                        </div>
+                        {% for foto in page.fotos %}
+                        {% assign url = foto | split:" " | first%}
+                        {% assign alt = foto | replace_first:url | strip %}
+                        {% if forloop.index == 1 %}
+                        <div class="12u">
+                        {% else %}
+                        <div class="4u">
+                        {% endif %}
+                            <span class="image fit">
+                                <a href="{{url}}" data-lightbox="image-1" data-title="{{alt}}">
+                                    <img src="{{url}}" alt="{{alt}}" />
+                                </a>
+                            </span>
+                        </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
             
-            <div class="6u 12u(small)" >
+            <div class="post 6u 12u(small)" >
                 {{ content }}
             </div>
 
@@ -61,8 +55,56 @@
 
 </div>
 
-    {% include footer.html %}
-
-</body>
-
-</html>
+<!-- Contact -->
+<section id="contact">
+    <div class="inner">
+        <section>
+            <div id="map"></div>
+        </section>
+        <section class="split">
+            {% if page.e-mail != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-envelope"></span>
+                    <h3>Email</h3>
+                    <a href="#">{{ page.e-mail }}</a>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.telefone != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-phone"></span>
+                    <h3>Telefone</h3>
+                    <span>{{ page.telefone }}</span>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.endereco != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-home"></span>
+                    <h3>Endereço</h3>
+                    <span>{{ page.endereco }}</span>
+                </div>
+            </section>
+            {% endif %}
+        </section>
+    </div>
+</section>
+<script>
+  function initMap() {
+    var uluru = {lat: -19.8925797, lng: -44.0196499};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 18,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+</script>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW0etYWTU4sk8VOcxldeKU-WjAscOApEk&callback=initMap">
+    </script>

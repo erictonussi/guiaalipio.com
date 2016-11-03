@@ -1,8 +1,8 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: byYou! Cosmetics
-description: byYou! Cosmetics
-url: http://byyoucosmetics.com.br/
+title: Guia Alípio
+description: Guia Alípio
+url: http://guiaalipio.com.br/
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/src
@@ -21,7 +21,10 @@ author:
   github: erictonussi
 
 tiles-source: posts # accepts "posts" or "pages" 
-tiles-count: 6
+tiles-count: 100
+
+tag_page_layout: tag_page
+tag_page_dir: tag
   
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
@@ -30,7 +33,7 @@ show_drafts: true
 # Disables the more accurate related posts for faster generating of the site
 lsi: false
 # Only make the last 10 posts so generating isn't slow
-limit_posts: 10
+limit_posts: 100
 
 # Permalink structure and pagination options
 permalink: none

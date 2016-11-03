@@ -43,11 +43,13 @@
 			header {
 				position: relative;
 				z-index: 3;
-                text-shadow: 1px 1px 10px rgba(0,0,0,.5);
+                text-shadow: 1px 1px 10px rgba(0,0,0,1);
 			}
 
 			h3 {
 				font-size: 1.75em;
+                line-height: 1;
+                max-width: 100%; 
 
 				a {
 					&:hover {
@@ -73,14 +75,16 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.4;
+                opacity: 0.4;
+				// opacity: 0.6;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
 			}
 
 			&:after {
-				background-color: transparentize(_palette(bg), 0.75);
+                background-color: transparentize(_palette(bg), 0.75);
+				background-color: transparentize(_palette(bg), 0.5);
 				content: '';
 				display: block;
 				height: 100%;
@@ -108,38 +112,38 @@
 			// 	width: 60%;
 			// }
 
-			&:nth-child(6n - 5) {
+			&.-i5 {
 				&:before {
 					background-color: _palette(accent1);
 				}
 			}
 
-			&:nth-child(6n - 4) {
+			&.-i4 {
 				&:before {
 					background-color: _palette(accent2);
 				}
 			}
 
-			&:nth-child(6n - 3) {
+			&.-i3 {
 				&:before {
 					background-color: _palette(accent3);
 				}
 			}
 
-			&:nth-child(6n - 2) {
+			&.-i2 {
 				&:before {
 					background-color: _palette(accent4);
 				}
 			}
 
-			&:nth-child(6n - 1) {
+			&.-i1 {
 				&:before {
 					background-color: _palette(accent5);
 				}
 			}
 
-			&:nth-child(6n) {
-				&:before {
+			&.-i0 { 
+			     &:before {
 					background-color: _palette(accent6);
 				}
 			}

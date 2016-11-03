@@ -9,7 +9,7 @@ gulp.task('clean:images', () => {
   return del(['.tmp/assets/images', 'dist/assets/images']);
 });
 gulp.task('clean:dist', () => {
-  return del(['dist/', '.tmp/dist']);
+  return del(['!dist/.git','!dist/CNAME','dist/**/*', '.tmp/dist']);
 });
 gulp.task('clean:gzip', () => {
   return del(['dist/**/*.gz']);

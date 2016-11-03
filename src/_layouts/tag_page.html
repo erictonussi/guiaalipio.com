@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major">
+            <h1>{{ page.tag }}</h1>
+        </header>
+        <ul>
+        {% for post in page.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</section>
