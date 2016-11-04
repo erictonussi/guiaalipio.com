@@ -1,181 +1,208 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-01T23:58:48-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Brou Fitness</title><link href="http://guiaalipio.com.br//brou-academia.html" rel="alternate" type="text/html" title="Brou Fitness" /><published>2016-09-10T00:00:00-03:00</published><updated>2016-09-10T00:00:00-03:00</updated><id>http://guiaalipio.com.br//brou-academia</id><content type="html" xml:base="http://guiaalipio.com.br//brou-academia.html">&lt;h1&gt;Academia&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-04T00:32:50-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Clube 7</title><link href="http://guiaalipio.com.br//clube7.html" rel="alternate" type="text/html" title="Clube 7" /><published>2016-10-03T00:00:00-03:00</published><updated>2016-10-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//clube7</id><content type="html" xml:base="http://guiaalipio.com.br//clube7.html">&lt;h1&gt;Clube&lt;/h1&gt;
 
-&lt;p&gt;Academia Brou Fitness está no mercado desde 2003 oferecendo qualidade de vida e energia aos seus alunos. 
-Tendo como principais atividades o Spinning e a Musculação, contamos com equipamentos modernos 
-para que você se se preocupe apenas com sua atividade e consiga atingir seus objetivos no 
-menor tempo possível.&lt;br&gt;
-Nossos instrutores estão sempre à disposição para auxiliá-lo e tirar dúvidas sobre a execução correta dos exercícios.&lt;/p&gt;
-
-&lt;h2&gt;Modalidades e Valores&lt;/h2&gt;
+&lt;p&gt;Clube destinado a Associação dos Moradores da Região do Serrano.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Musculação 3x por semana - R$70,00&lt;/li&gt;
-&lt;li&gt;Musculação todos os dias - R$80,00&lt;/li&gt;
-&lt;li&gt;Musculação horário econômico: todos os dias, com entrada de 12h às 16h - R$70,00&lt;/li&gt;
-&lt;li&gt;Spinning 3x - R$80,00&lt;/li&gt;
-&lt;li&gt;Spinning 4× - R$85,00&lt;/li&gt;
-&lt;li&gt;Musculação 3x + 3x Spinning - 3x de R$95,00&lt;/li&gt;
-&lt;li&gt;Musculação 5x + Spinning - 5x de R$105,00&lt;/li&gt;
-&lt;li&gt;Avaliação Fisica: - R$30,00&lt;/li&gt;
-&lt;li&gt;Cartão de acesso: - R$5,00&lt;/li&gt;
+&lt;li&gt;Diversas atividades e brincadeiras aos sócios;&lt;/li&gt;
+&lt;li&gt;Campo de futebol totalmente reformado;&lt;/li&gt;
+&lt;li&gt;Lanchonete;&lt;/li&gt;
+&lt;li&gt;Academia;&lt;/li&gt;
+&lt;li&gt;Piscina aquecida.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="clube" /><category term="piscina" /><category term="lazer" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//49.jpg" /></entry><entry><title type="html">GCAM</title><link href="http://guiaalipio.com.br//GCAM.html" rel="alternate" type="text/html" title="GCAM" /><published>2016-10-02T00:00:00-03:00</published><updated>2016-10-02T00:00:00-03:00</updated><id>http://guiaalipio.com.br//GCAM</id><content type="html" xml:base="http://guiaalipio.com.br//GCAM.html">&lt;h1&gt;Clube&lt;/h1&gt;
+
+&lt;p&gt;Grêmio Comunitário Alípio de Melo é uma organização de entretenimento e lazer destinado aos moradores do Bairro Alípio de Melo 
+e região.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="clube" /><category term="piscina" /><category term="lazer" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//48.jpg" /></entry><entry><title type="html">E-Drones</title><link href="http://guiaalipio.com.br//e-drone.html" rel="alternate" type="text/html" title="E-Drones" /><published>2016-10-01T00:00:00-03:00</published><updated>2016-10-01T00:00:00-03:00</updated><id>http://guiaalipio.com.br//e-drone</id><content type="html" xml:base="http://guiaalipio.com.br//e-drone.html">&lt;h1&gt;Fotogrametria e Imagens Aéreas&lt;/h1&gt;
+
+&lt;p&gt;Empresa especializada em captação de imagens aéreas por meio de drones, possibilitando imagens de áreas restritas:
+* Avaliação de áreas de risco ou de difícil acesso; 
+* Observação da vista em um tempo muito menor do que em uma observação terrestre;
+* Registro de solos e plataformas;
+* Vistorias para uma pré-manutenção;
+* Mapeamento topográfico;
+* Eventos: captação de imagens de casamento, 15 anos, formatura.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="drones" /><category term="fotogrametria" /><category term="aérea" /><category term="imagens" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//47.jpg" /></entry><entry><title type="html">Em Forma</title><link href="http://guiaalipio.com.br//em-forma-academia.html" rel="alternate" type="text/html" title="Em Forma" /><published>2016-09-30T00:00:00-03:00</published><updated>2016-09-30T00:00:00-03:00</updated><id>http://guiaalipio.com.br//em-forma-academia</id><content type="html" xml:base="http://guiaalipio.com.br//em-forma-academia.html">&lt;h1&gt;Academia&lt;/h1&gt;
+
+&lt;p&gt;A Academia Em Forma possui uma completa infra-estrutura para seu lazer, com mais de 3.000 m2 de área construída e
+150 equipamentos distribuídos em 12 salas. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;30 esteiras;&lt;/li&gt;
+&lt;li&gt;Área de artes marciais;&lt;/li&gt;
+&lt;li&gt;Spinning;&lt;/li&gt;
+&lt;li&gt;Piscina;&lt;/li&gt;
+&lt;li&gt;Circuito para Treinamento Funcional;&lt;/li&gt;
+&lt;li&gt;Quadra de peteca;&lt;/li&gt;
+&lt;li&gt;Espaço kids;&lt;/li&gt;
+&lt;li&gt;Lanchonete. &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="academia" /><category term="saúde" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//46.jpg" /></entry><entry><title type="html">Stúdio Beagarra</title><link href="http://guiaalipio.com.br//beagarra.html" rel="alternate" type="text/html" title="Stúdio Beagarra" /><published>2016-09-29T00:00:00-03:00</published><updated>2016-09-29T00:00:00-03:00</updated><id>http://guiaalipio.com.br//beagarra</id><content type="html" xml:base="http://guiaalipio.com.br//beagarra.html">&lt;h1&gt;Academia&lt;/h1&gt;
+
+&lt;p&gt;Não é o modelo de academia tradicional que oferece atividade repetitiva, sem diversão, motivação e resultados
+insignificantes. A Beagarra atende a pequenos grupos (até 10 participantes) com treinamento de peso corporal de alta qualidade,
+no stúdio ou ao ar livre priorizando o trabalho em equipe e criando um espírito de comunidade entre os participantes.&lt;br&gt;
+Treinamentos personalizados que combinam exercícios com peso corporal e artes marciais, que levam o corpo ir além do que você pensava
+que era capaz, promovendo uma forma natural, divertida e segura de se exercitar.&lt;/p&gt;
+
+&lt;h2&gt;Modalidades&lt;/h2&gt;
+
+&lt;h3&gt;Boxe&lt;/h3&gt;
+
+&lt;p&gt;Aula de condicionamento físico que utiliza a técnica e exercícios como, por exemplo, pular corda, esquiva, 
+saco de pancada e movimentação. 
+O ritmo intenso e dinâmico proporciona resultados rápidos, sem as lesões e traumas do esporte pelo contato.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simulação de combate sem contato físico (sombra);&lt;/li&gt;
+&lt;li&gt; Treino técnico e cardio utilizando manoplas;&lt;/li&gt;
+&lt;li&gt;Treinos específicos para resistência e fortalecimento abdominal.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Aulas de Spinning às 7h, 19h e 20h.&lt;/h4&gt;
+&lt;h3&gt;Muay Thai&lt;/h3&gt;
 
-&lt;h2&gt;Horário de Funcionamento da academia:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Segunda a quinta: 6h às 22h&lt;/li&gt;
-&lt;li&gt;Sexta: 6h às 21h&lt;/li&gt;
-&lt;li&gt;Sábado: 9h às 12h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="academia" /><category term="malhação" /><category term="corpo" /><category term="fitness" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//23.jpg" /></entry><entry><title type="html">Jujuba</title><link href="http://guiaalipio.com.br//jujuba-bala-festa.html" rel="alternate" type="text/html" title="Jujuba" /><published>2016-09-09T00:00:00-03:00</published><updated>2016-09-09T00:00:00-03:00</updated><id>http://guiaalipio.com.br//jujuba-bala-festa</id><content type="html" xml:base="http://guiaalipio.com.br//jujuba-bala-festa.html">&lt;h1&gt;Bala e Festa&lt;/h1&gt;
-
-&lt;p&gt;Na a Jujuba Bala e Festa, todo dia é dia de festejar! Fazemos suas festas infantis ou adultas 
-ficarem mais divertidas e coloridas.  &lt;/p&gt;
-
-&lt;p&gt;Oferecemos a melhor solução para seu evento, seja ele qual for: &lt;/p&gt;
+&lt;p&gt;Treinos que iniciam com aquecimento (alongamentos, polichinelos, flexões de braços, abdominais e agachamentos),
+e segue com aperfeiçoamento de diferentes formas de socos, chutes, cotoveladas e 
+joelhadas e de domínio do adversário (clinch).&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Aniversário e debutante;&lt;/li&gt;
-&lt;li&gt;Formatura;&lt;/li&gt;
-&lt;li&gt;Bodas de Ouro;&lt;/li&gt;
-&lt;li&gt;Chá de Bebê;&lt;/li&gt;
-&lt;li&gt;Casamento;&lt;/li&gt;
-&lt;li&gt;Datas Comemorativas: Páscoa, Natal&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Simulação de combate sem contato físico (sombra);&lt;/li&gt;
+&lt;li&gt;Treino técnico e cárdio utilizando aparadores (pads);&lt;/li&gt;
+&lt;li&gt;Treinos específicos para resistência e fortalecimento abdominal.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nossos estoques estão sempre disponíveis para garantir a agilidade na entrega dos produtos. Não deixamos faltar nada em sua festa,
-pois temos uma linha completa e variada de produtos.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="balas" /><category term="doces" /><category term="festas" /><category term="bala" /><category term="doce" /><category term="festa" /><category term="aniversário" /><category term="infantil" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//22.jpg" /></entry><entry><title type="html">JF Carvão</title><link href="http://guiaalipio.com.br//jf-carvao.html" rel="alternate" type="text/html" title="JF Carvão" /><published>2016-09-08T00:00:00-03:00</published><updated>2016-09-08T00:00:00-03:00</updated><id>http://guiaalipio.com.br//jf-carvao</id><content type="html" xml:base="http://guiaalipio.com.br//jf-carvao.html">&lt;h1&gt;Carvão Vegetal&lt;/h1&gt;
+&lt;h3&gt;Calistenia&lt;/h3&gt;
 
-&lt;p&gt;A JF Carvão sabe quando o assunto é fazer um bom churrasco, é a qualidade do fogo. 
-E pra ter um bom fogo precisamos ter um bom carvão.&lt;br&gt;
-Somos a solução ideal para quem quer a garantia de um evento de alta qualidade e sem preocupações, com o calor
-de uma churrascaria.&lt;br&gt;
-Nossa missão é garantir sua satisfação com os produtos, trabalhando sempre com mercadorias de excelente qualidade 
-e 100% Eucalipto, com procedência ambiental garantida através do selo de origem florestal.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="carvão" /><category term="vegetal" /><category term="churrasco" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//20.jpg" /></entry><entry><title type="html">Claus</title><link href="http://guiaalipio.com.br//claus-congelados.html" rel="alternate" type="text/html" title="Claus" /><published>2016-09-07T00:00:00-03:00</published><updated>2016-09-07T00:00:00-03:00</updated><id>http://guiaalipio.com.br//claus-congelados</id><content type="html" xml:base="http://guiaalipio.com.br//claus-congelados.html">&lt;h1&gt;Salgados Congelados&lt;/h1&gt;
+&lt;p&gt;São exercícios que usam o peso do corpo como carga (flexões, abdominais, barras e paralelas, por exemplo).
+As sessões de calistenia são precedidas de alongamentos intensos, de modo a aquecer os músculos e preparar as articulações.
+Esta atividade tem uma execução simples e pode ser realizada por qualquer pessoa.&lt;br&gt;
+Destinado para quem quer desenvolver, principalmente, força, flexibilidade corporal, equilíbrio, agilidade e coordenação.&lt;/p&gt;
 
-&lt;p&gt;A Claus Congelados é uma empresa de família que entrou para o ramo de congelados, com o objetivo de oferecer praticidade 
-na cozinha e salvar os clientes de imprevistos. &lt;/p&gt;
+&lt;h3&gt;MammaFit&lt;/h3&gt;
 
-&lt;h2&gt;Produtos:&lt;/h2&gt;
+&lt;p&gt;Dedicado às mulheres em uma fase especial e delicada como a do pós-parto. 
+Visa a tonificação muscular e bem-estar da mãe com exercícios  que envolvem todos os grupos  musculares, 
+em especial atenção à  recuperação gradual dos músculos abdominais e pélvicos, 
+com um diferencial importante que é o de não afastarem-se de seus filhos no decorrer dessas atividades.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Pão de Queijo&lt;/li&gt;
-&lt;li&gt;Mini Salgado&lt;/li&gt;
-&lt;li&gt;Mini Pizza&lt;/li&gt;
-&lt;li&gt;Biscoito Provolone e Queijo Minas&lt;/li&gt;
-&lt;li&gt;Bolinho de Bacalhau&lt;/li&gt;
-&lt;li&gt;Bolinho de Tilápia&lt;/li&gt;
-&lt;li&gt;Lasanha&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Atividades lúdicas e esportivas para as mães e seus bebês.&lt;/li&gt;
+&lt;li&gt;Momento de comunhão consigo mesma, com seu corpo e com seu filho.&lt;/li&gt;
+&lt;li&gt;Proporciona boas amizades com outras mães que estão no mesmo estado pós-parto.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Conheça o Kit Festa.&lt;br&gt;
-Dispomos de Serviço de Entregas.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="salgados" /><category term="congelados" /><category term="massas" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//21.jpg" /></entry><entry><title type="html">Paulinho</title><link href="http://guiaalipio.com.br//paulinho-suplementos.html" rel="alternate" type="text/html" title="Paulinho" /><published>2016-09-06T00:00:00-03:00</published><updated>2016-09-06T00:00:00-03:00</updated><id>http://guiaalipio.com.br//paulinho-suplementos</id><content type="html" xml:base="http://guiaalipio.com.br//paulinho-suplementos.html">&lt;h1&gt;Suplementos Alimentares&lt;/h1&gt;
+&lt;h3&gt;Open Floor&lt;/h3&gt;
 
-&lt;p&gt;Há mais de 19 anos trabalhando com suplementação e fornecendo explicações de cada 
-uma de suas funcionalidades, a fim de que o cliente obtenha o resultado esperado.   &lt;/p&gt;
+&lt;p&gt;Serviço dedicado a atletas independetes que já conhecem o Street Workout e pussuem horário flexivel. O Open Floor permite o 
+atleta realizar seu próprio treino ou rotinas elaboradas por nossos treinadores, 
+podendo aprimorar suas deficiências e evoluir mais com atletas de outros níveis.&lt;/p&gt;
 
-&lt;h3&gt;Cobrimos o preço da concorrência.&lt;/h3&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="suplementos" /><category term="alimentares" /><category term="malhação" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//19.jpg" /></entry><entry><title type="html">Tamara Luzia</title><link href="http://guiaalipio.com.br//tamara-luzia.html" rel="alternate" type="text/html" title="Tamara Luzia" /><published>2016-09-05T00:00:00-03:00</published><updated>2016-09-05T00:00:00-03:00</updated><id>http://guiaalipio.com.br//tamara-luzia</id><content type="html" xml:base="http://guiaalipio.com.br//tamara-luzia.html">&lt;h1&gt;Decorações&lt;/h1&gt;
+&lt;h3&gt;Beagarra Girls ao Ar Livre&lt;/h3&gt;
 
-&lt;p&gt;Artigos de decoração para a casa e jardim:&lt;/p&gt;
+&lt;p&gt;O objetivo do Treinamento Funcional é promover a realizaçao de uma atividade física com performance 
+individualizada e alto gasto calórico, objetivando uma melhora na postura, alta 
+definição muscular e grande perda de peso, tudo isso sem a rotina massante das academias covencionais.&lt;br&gt;
+Traz enormes benefícios entre eles aumento do ganho de força, resistência aeróbia, ganho de massa muscular magra e 
+perda de gordura, além de ser uma ótima opção para sair da rotina.&lt;br&gt;
+Este método de treinamento atende tanto o indivíduo mais condicionado como o menos condicionado, 
+criando um ambiente dinâmico e agradável de treino.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="academia" /><category term="saúde" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//45.jpg" /></entry><entry><title type="html">Alípio de Melo</title><link href="http://guiaalipio.com.br//alipio-melo.html" rel="alternate" type="text/html" title="Alípio de Melo" /><published>2016-09-29T00:00:00-03:00</published><updated>2016-09-29T00:00:00-03:00</updated><id>http://guiaalipio.com.br//alipio-melo</id><content type="html" xml:base="http://guiaalipio.com.br//alipio-melo.html">&lt;h1&gt;Bairro&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Arranjo de flores artificiais;&lt;/li&gt;
-&lt;li&gt;Vasos;&lt;/li&gt;
-&lt;li&gt;Decoração para mesa, portas e janelas;&lt;/li&gt;
-&lt;li&gt;Quadros de parede;&lt;/li&gt;
-&lt;li&gt;Estatuetas.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="decoração" /><category term="decorações" /><category term="arranjos" /><category term="flores" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//18.jpg" /></entry><entry><title type="html">JF Carvão</title><link href="http://guiaalipio.com.br//jf-carvao.html" rel="alternate" type="text/html" title="JF Carvão" /><published>2016-09-05T00:00:00-03:00</published><updated>2016-09-05T00:00:00-03:00</updated><id>http://guiaalipio.com.br//jf-carvao</id><content type="html" xml:base="http://guiaalipio.com.br//jf-carvao.html">&lt;h1&gt;Carvão Vegetal&lt;/h1&gt;
+&lt;p&gt;&amp;ldquo;As ruas batizadas com nomes de profissões e pássaros dizem muito sobre o Bairro Alípio de Melo, na Região da Pampulha. 
+Relativamente jovem, o início da ocupação da região se deu nos anos 1970 e ganhou força na década de 1990. 
+Hoje, fora das avenidas com maior circulação de veículos e comércio, praças, vias arborizadas e muitas casas 
+fazem prevalecer a tranquilidade nesta agradável vizinhança típica da classe média belo-horizontina.  &lt;/p&gt;
 
-&lt;p&gt;A JF Carvão sabe quando o assunto é fazer um bom churrasco, é a qualidade do fogo. 
-E pra ter um bom fogo precisamos ter um bom carvão.&lt;br&gt;
-Somos a solução ideal para quem quer a garantia de um evento de alta qualidade e sem preocupações, com o calor
-de uma churrascaria.&lt;br&gt;
-Nossa missão é garantir sua satisfação com os produtos, trabalhando sempre com mercadorias de excelente qualidade 
-e 100% Eucalipto, com procedência ambiental garantida através do selo de origem florestal.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="carvão" /><category term="vegetal" /><category term="churrasco" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//20.jpg" /></entry><entry><title type="html">Espaço MD</title><link href="http://guiaalipio.com.br//cortinas.html" rel="alternate" type="text/html" title="Espaço MD" /><published>2016-09-04T00:00:00-03:00</published><updated>2016-09-04T00:00:00-03:00</updated><id>http://guiaalipio.com.br//cortinas</id><content type="html" xml:base="http://guiaalipio.com.br//cortinas.html">&lt;h1&gt;Cortinas e Persianas&lt;/h1&gt;
+&lt;p&gt;Hoje, o Alípio de Melo conjuga o agito e intenso movimento de avenidas como a Abílio Machado e a dos Engenheiros, 
+com a tranquilidade quase interiorana de suas ruas. O diverso comércio e rede de serviços se concentra nas vias maiores. 
+São várias agências bancárias, padarias, açougues, hortifrútis, pequenos mercados, lojas de material de construção, 
+oficinas mecânicas, pequenos shoppings, supermercados, pet shops, loterias, escolas públicas e privadas. Ou seja, 
+tudo para atender seus habitantes. Boa oferta de linhas de ônibus e vias de acesso também facilitam a vida dos moradores.&amp;rdquo;&lt;/p&gt;
 
-&lt;h3&gt;Venda, Manutenção e Limpeza&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Origem do nome&lt;/strong&gt;&lt;br&gt;
+&amp;ldquo;Loteado no terreno da antiga Fazenda São José, o nome do bairro homenageia o ex-proprietário coronel Alípio Ferreira de Melo. D
+e origem operária, um dos marcos do início da ocupação da região é a construção, em 1976, do 
+Conjunto Habitacional Alípio de Melo, parceria de cooperativas de trabalhadores com o Banco Nacional da Habitação.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;A Espaço MD é especializada em cortinas, persianas, papéis de parede e pisos. 
-Atendimento na loja e personalizado na residência, somando esforços para tornar o seu ambiente mais aconchegante e elegante.&lt;/p&gt;
-
-&lt;h2&gt;Papéis de Parede&lt;/h2&gt;
-
-&lt;p&gt;Variedades de papeis de parede importados e nacionais.&lt;/p&gt;
-
-&lt;h2&gt;Instalação Profissional&lt;/h2&gt;
-
-&lt;p&gt;Equipe especializada de instaladores de papel de parede, piso laminado, cortinas e persianas.&lt;/p&gt;
-
-&lt;h2&gt;Limpeza e Manutenção de Cortinas e Persianas&lt;/h2&gt;
-
-&lt;p&gt;Vamos à sua casa, orçamos, negociamos e, se aprovado, já providenciamos a reforma, colocação, 
-conserto ou limpeza de suas persianas ou cortinas.  &lt;/p&gt;
-
-&lt;h2&gt;Design de Interiores&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Linhas de atendimento do transporte coletivo no bairro:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Projetos para ambientes residencias e comercias realizados por decoradores que seguem padrões de estética, 
-funcionalidade e ergonomia, que proporcionam mais harmonia, beleza e mais conforto;&lt;/li&gt;
-&lt;li&gt;Participamos de toda escolha de composição de cores, materiais e acabamentos;&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Realização da obra com acompanhamento e indicação de profissionais caso necessário.&lt;/li&gt;
+&lt;li&gt;1404A (Palmeiras/Alípio de Melo)&lt;/li&gt;
+&lt;li&gt;1404B (Estrela do Oriente/Jardim Inconfidência)&lt;/li&gt;
+&lt;li&gt; 1404C (Palmeiras/São Salvador)&lt;/li&gt;
+&lt;li&gt;4403A (Zoológico – via Serrano)&lt;/li&gt;
+&lt;li&gt;4403C (Residencial Sarandi)&lt;/li&gt;
+&lt;li&gt; 4403D (Urca/Confisco)&lt;/li&gt;
+&lt;li&gt; 4410 (Celso Machado – via Saramenho/Urca)&lt;/li&gt;
+&lt;li&gt; S54 (Dom Bosco/Shopping Del Rey)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Projeto de Luminotécnica&lt;/h2&gt;
+&lt;p&gt;Fonte: &lt;a href=&quot;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&quot;&gt;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="Alípio" /><category term="de" /><category term="Melo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//42.jpg" /></entry><entry><title type="html">Castelo</title><link href="http://guiaalipio.com.br//castelo.html" rel="alternate" type="text/html" title="Castelo" /><published>2016-09-28T00:00:00-03:00</published><updated>2016-09-28T00:00:00-03:00</updated><id>http://guiaalipio.com.br//castelo</id><content type="html" xml:base="http://guiaalipio.com.br//castelo.html">&lt;h1&gt;Bairro&lt;/h1&gt;
 
-&lt;p&gt;A luminotécnica concilia conhecimentos sobre iluminação e arquitetura, além de levar em conta o gosto pessoal de cada um. 
-O maior desafio de quem trabalha com projetos de iluminação é aliar o conhecimento técnico da área 
-com as preferências de cada cliente, criando um projeto que seja eficiente e agradável esteticamente.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;O Castelo é um bairro relativamente novo. A área onde hoje ele se localiza fazia parte da Fazenda dos Menezes 
+(também conhecida como Fazenda da Serra), que era de propriedade do coronel Francisco Menezes Filho e foi responsável 
+durante muitos anos pelo abastecimento de leite, hortaliças e gêneros alimentícios da capital.
+Durante a década de 1970 com a expansão urbanística da região, os herdeiros do coronel iniciaram o loteamento do terreno.&lt;br&gt;
+O bairro passou a ser habitado na década de 1980, quando começaram as construções das redes de esgoto, de água pluvial e potável.  &lt;/p&gt;
 
-&lt;h3&gt;Garantia de Qualidade&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Origem do nome&lt;/strong&gt;  &lt;/p&gt;
 
-&lt;p&gt;Exigimos qualidade na confecção de todos os produtos que comercializamos, 
-proporcionando total tranquilidade aos nossos clientes.&lt;/p&gt;
+&lt;p&gt;Segundo Lúcio Souza Assumpção, diretor executivo da Cinova, empresa responsável pelo planejamento do bairro, 
+o nome seria Castelo Branco, em homenagem aos militares, porém, para não desagradar a família Menezes, 
+com uma relação política, o nome ficou apenas Castelo.&amp;rdquo;&lt;/p&gt;
 
-&lt;h3&gt;Medições On-Site&lt;/h3&gt;
-
-&lt;p&gt;Medições e inspeções no local, proporcionando um resultado com qualidade.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="cortina" /><category term="persiana" /><category term="casa" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//17.jpg" /></entry><entry><title type="html">Ponto do Azulejo</title><link href="http://guiaalipio.com.br//ponto-azulejo.html" rel="alternate" type="text/html" title="Ponto do Azulejo" /><published>2016-09-03T00:00:00-03:00</published><updated>2016-09-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//ponto-azulejo</id><content type="html" xml:base="http://guiaalipio.com.br//ponto-azulejo.html">&lt;h1&gt;Casa e Acabamentos&lt;/h1&gt;
-
-&lt;p&gt;No Ponto do Azulejo, o cliente é prontamente recebido pelos consultores especializados, que ficam à disposição todo o tempo necessário para tirar dúvidas e agilizar as compras de material de construção, acabamentos e reformas.&lt;/p&gt;
-
-&lt;p&gt;Nele encontra-se tudo para construção:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Linhas de atendimento do transporte coletivo no bairro:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Linha de pisos e revestimentos;&lt;/li&gt;
-&lt;li&gt;Banheiras de hidromassagem,;&lt;/li&gt;
-&lt;li&gt;Metais sanitários;&lt;/li&gt;
-&lt;li&gt;Louças sanitárias;&lt;/li&gt;
-&lt;li&gt;Iluminação;&lt;/li&gt;
-&lt;li&gt;Pias;&lt;/li&gt;
-&lt;li&gt;Pastilhas de vidro;&lt;/li&gt;
-&lt;li&gt;Armários planejados para cozinha e banheiro.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="azulejo" /><category term="ladrilho" /><category term="casa" /><category term="acabamentos" /><category term="reforma" /><category term="construção" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//16.jpg" /></entry><entry><title type="html">Renata Robini</title><link href="http://guiaalipio.com.br//fisioterapeuta.html" rel="alternate" type="text/html" title="Renata Robini" /><published>2016-09-02T00:00:00-03:00</published><updated>2016-09-02T00:00:00-03:00</updated><id>http://guiaalipio.com.br//fisioterapeuta</id><content type="html" xml:base="http://guiaalipio.com.br//fisioterapeuta.html">&lt;h1&gt;Fisioterapia e Pilates&lt;/h1&gt;
-
-&lt;p&gt;Formada em Fisioterapia e Pós Graduada em Ortopedia Pela UFMG.  &lt;/p&gt;
-
-&lt;p&gt;Objetivos:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tratamento em busca de otimizar e acelerar o processo de cura;&lt;/li&gt;
-&lt;li&gt;Ética e Transparência;&lt;/li&gt;
-&lt;li&gt;Mais qualidade de vida para o paciente.&lt;/li&gt;
+&lt;li&gt;3301B: Castelo - Centro&lt;/li&gt;
+&lt;li&gt;54A e 54B: - Circular Dom Bosco - Del Rey&lt;/li&gt;
+&lt;li&gt;Linha A via Castelo&lt;/li&gt;
+&lt;li&gt;Linha B via Pe. Eustáquio&lt;/li&gt;
+&lt;li&gt;1404A: Alípio de Melo/Palmeiras&lt;/li&gt;
+&lt;li&gt;506: Jardim Alvorada - Via Castelo[6]&lt;/li&gt;
+&lt;li&gt;1404B: Incofidencia/Estrela Dalva&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;O Profissional&lt;/h2&gt;
+&lt;p&gt;Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Castelo_(Belo_Horizonte)&quot;&gt;https://pt.wikipedia.org/wiki/Castelo_(Belo_Horizonte)&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="castelo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//41.jpg" /></entry><entry><title type="html">Aprova</title><link href="http://guiaalipio.com.br//aprova-projetos-incendio.html" rel="alternate" type="text/html" title="Aprova" /><published>2016-09-28T00:00:00-03:00</published><updated>2016-09-28T00:00:00-03:00</updated><id>http://guiaalipio.com.br//aprova-projetos-incendio</id><content type="html" xml:base="http://guiaalipio.com.br//aprova-projetos-incendio.html">&lt;h1&gt;Projetos contra Incêndio&lt;/h1&gt;
 
-&lt;p&gt;Quando sofremos uma lesão ou estamos com algum problema muscular, o médico pode sugerir o acompanhamento de 
-um fisioterapeuta para complementar a ação de medicamentos e acelerar a recuperação. 
-O fisioterapeuta é um profissional que se ocupa da recuperação de nossos movimentos através de massagens e exercícios físicos, 
-atuando também na prevenção de doenças ocupacionais e lesões.&lt;br&gt;
-Somente fisioterapeutas formados em cursos superiores de Fisioterapia reconhecidos pelo MEC e registrados no Conselho Regional 
-de Fisioterapia e Terapia Ocupacional (Crefito) podem recomendar sessões de fisioterapia. 
-Isso porque a profissão de fisioterapeuta é regulamentada desde 1969.&lt;/p&gt;
+&lt;p&gt;Com o intuito de atender a demanda do mercado por profissionais qualificados na área de prevenção e combate a incêndio, 
+conduzimos nossas atividades com responsabilidade e por isso temos grande destaque em nosso segmento. &lt;/p&gt;
 
-&lt;h2&gt;Serviços:&lt;/h2&gt;
+&lt;h2&gt;Excelência e Profissionalismo&lt;/h2&gt;
+
+&lt;p&gt;Temos como foco elaboração de projetos, laudos técnicos (Prefeitura) consultoria e instalação de sistema de proteção e 
+combate à incêndio e pânico, contando com uma equipe qualificada de engenheiros e técnicos com vasta experiência 
+no mercado de projetos de combate a incêndio.&lt;/p&gt;
+
+&lt;h2&gt;Serviços&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Saúde Preventiva;&lt;/li&gt;
-&lt;li&gt;Fisioterapia Desportiva;&lt;/li&gt;
-&lt;li&gt;Ortopedia;&lt;/li&gt;
-&lt;li&gt;Pilates.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="fisioterapia" /><category term="fisioterapeuta" /><category term="ortopedia" /><category term="pilates" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//15.jpg" /></entry></feed>
+&lt;li&gt;Elaboração e aprovação de Projetos contra Incêndio, junto ao corpo de Bombeiro, para as mais diversas áreas de atuação;&lt;/li&gt;
+&lt;li&gt;Elaboração de Projetos conta Incêndio para Eventos Temporários, em edificações ou em locais abertos em todo o Estado;&lt;/li&gt;
+&lt;li&gt;Elaboração de Projetos de SPDA (Sistema de Proteção contra Descargas Atmosféricas – Pára Raios);&lt;/li&gt;
+&lt;li&gt;Fornecimento de Brigadistas e Bombeiros Civis para Evento e Edificações;&lt;/li&gt;
+&lt;li&gt;Aluguel de Equipamentos Contra Incêndio para Eventos;&lt;/li&gt;
+&lt;li&gt;Laudos e Pareceres Técnicos para a aprovação de sistema de prevenção e combate a incêndio junto ao Corpo de Bombeiro;&lt;/li&gt;
+&lt;li&gt;Laudo Técnico para Prefeitura – Atualização de Projetos de Combate a Incêndio e Pânico – Instalação de Sistema de Combate a Incêndio e Pânico;&lt;/li&gt;
+&lt;li&gt;Visita técnica para assessoria, bem como pré-vistoria antecedendo ao CBMMG (AVCB).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="projetos" /><category term="incêndio" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//44.jpg" /></entry><entry><title type="html">Villefort</title><link href="http://guiaalipio.com.br//villefort.html" rel="alternate" type="text/html" title="Villefort" /><published>2016-09-27T00:00:00-03:00</published><updated>2016-09-27T00:00:00-03:00</updated><id>http://guiaalipio.com.br//villefort</id><content type="html" xml:base="http://guiaalipio.com.br//villefort.html">&lt;h1&gt;Atacadista&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dispõe de um serviço de televendas, proporcionando melhor preço, agilidade e a comodidade da venda por telefone.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;História&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1988 – Nasce o Villefort Atacadista. É Implantada no Pavilhão 10 na Ceasa-MG, a primeira loja.&lt;/li&gt;
+&lt;li&gt;1991 – A 1ª. Loja é ampliada para atender pequenos supermercados, mercearias, bares, restaurantes, hotéis, lanchonetes, padarias, confeitarias, dogueiros, cozinhas industriais.&lt;/li&gt;
+&lt;li&gt;2015 – 11ª. Loja – Brigadeiro Eduardo Gomes, Glória, Cidade de Belo Horizonte.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;http://www.villefort.com.br/historia&quot;&gt;http://www.villefort.com.br/historia&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="atacadista" /><category term="supermercado" /><category term="alimentação" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//43.jpg" /></entry><entry><title type="html">Drogaria Araújo</title><link href="http://guiaalipio.com.br//drogaria-araujo.html" rel="alternate" type="text/html" title="Drogaria Araújo" /><published>2016-09-27T00:00:00-03:00</published><updated>2016-09-27T00:00:00-03:00</updated><id>http://guiaalipio.com.br//drogaria-araujo</id><content type="html" xml:base="http://guiaalipio.com.br//drogaria-araujo.html">&lt;h1&gt;Farmácia&lt;/h1&gt;
+
+&lt;p&gt;&amp;ldquo;Em 1906, quando a capital mineira tinha apenas 9 anos, Abelardo de Faria Alvim e José Lage Martins da Costa fundaram a 
+Pharmácia Mineira e, três anos depois, contrataram como balconista o jovem Modesto Carvalho de Araujo, 
+que na época tinha apenas 17 anos.&lt;br&gt;
+Empreendedor e dedicado, Modesto comprou a farmácia de seus empregadores em 1913, mudando em seguida o nome 
+para “Drogaria Araujo”. Sem imaginar que, mais de 100 anos depois, o nome da família continuaria associado aos 
+valores que ele tanto prezava: pioneirismo, seriedade, compromisso, ética, respeito pela vida, 
+tradição, inovação e atenção aos detalhes em tudo o que faz. O nome Araujo hoje é mais do que uma marca forte: 
+é um patrimônio de toda a cidade.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;http://www.araujo.com.br/&quot;&gt;http://www.araujo.com.br/&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="farmácia" /><category term="drogaria" /><category term="remédio" /><category term="conveniência" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//40.jpg" /></entry></feed>
