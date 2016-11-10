@@ -2,6 +2,7 @@
 layout: post
 title: Claus
 description: Salgados Congelados
+highlight: true
 image: 21.jpg
 tags: salgados congelados massas
 telefone: (31) 3016-8505
@@ -9,8 +10,8 @@ e-mail:
 site: 
 endereco:
     Rua Camboriú, 50
-    Glória, CEP 30830300
-    Belo Horizonte - MG
+     </br>Glória, CEP 30830-300
+     </br>Belo Horizonte - MG
 ---
 
 # Salgados Congelados

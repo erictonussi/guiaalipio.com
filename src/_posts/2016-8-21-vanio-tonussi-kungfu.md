@@ -2,7 +2,6 @@
 layout: post
 title: Vânio Tonussi
 description: Kung Fu Shaolin
-highlight: true
 image: 02.jpg
 tags: luta esporte
 telefone: (31) 9 8828-1514

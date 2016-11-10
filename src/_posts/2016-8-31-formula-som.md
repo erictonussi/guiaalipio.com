@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
       Av. Brigadeiro. Eduardo Gomes 2066
-      Glória - CEP 30870-100
-      Belo Horizonte - MG 
+      </br> Glória - CEP 30870-100
+      </br> Belo Horizonte - MG 
 ---
 
 # Som Automotivo

@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
       Av. Abílio Machado, 1456  
-      Alípio de Melo, CEP 30820-272  
-      Belo Horizonte - MG 
+      </br> Alípio de Melo, CEP 30820-272  
+      </br> Belo Horizonte - MG 
 ---
 
 # Material de Construção

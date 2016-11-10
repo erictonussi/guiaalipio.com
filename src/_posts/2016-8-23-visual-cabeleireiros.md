@@ -2,14 +2,15 @@
 layout: post
 title: Visual Cabeleireiros
 description: Salão de Beleza
+highlight: true
 image: 05.jpg
 tags: salão beleza estética
 telefone: (31)3471-1140
 e-mail: 
 endereco:
   Rua Leonil Prata 74
-  Alipio de Melo CEP 30830610
-  Belo Horizonte - MG
+   </br> Alipio de Melo CEP 30830-610
+   </br> Belo Horizonte - MG
 ---
 
 # Salão de Beleza Unissex

@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Afonso de Abreu e Silva, 169  
-    Frei Eustaquio, CEP 30870110
-    Belo Horizonte - MG
+     </br>Frei Eustaquio, CEP 30870-110
+  </br>   Belo Horizonte - MG
 ---
 
 # Academia

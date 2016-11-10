@@ -9,8 +9,8 @@ e-mail: viagem@confortoturismo.com.br (Antônio)
 site: www.confortoturismo.com.br
 endereco:
       R. Maria Syllene Andreazzi, 154 
-      Glória - CEP 30830360
-      Belo Horizonte - MG 
+      </br> Glória - CEP 30830-360
+      </br> Belo Horizonte - MG 
 ---
 
 # Agência de Viagens

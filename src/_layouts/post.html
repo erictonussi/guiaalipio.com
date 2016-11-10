@@ -21,25 +21,25 @@ layout: default
                     <div class="row 50% uniform">
                         <div class="12u">
                             <span class="image fit">
-                                <a href="/assets/images/home/originais/{{ page.image }}" data-lightbox="image-1" data-title="{{alt}}">
-                                    <img src="/assets/images/home/originais/{{ page.image }}" alt="{{alt}}" />
+                                <a href="/assets/images/home/medium/{{ page.image }}" data-lightbox="image-1" data-title="{{alt}}">
+                                    <img src="/assets/images/home/medium/{{ page.image }}" alt="{{alt}}" />
                                 </a>
                             </span>
                         </div>
                         {% for foto in page.fotos %}
-                        {% assign url = foto | split:" " | first%}
-                        {% assign alt = foto | replace_first:url | strip %}
-                        {% if forloop.index == 1 %}
-                        <div class="12u">
-                        {% else %}
-                        <div class="4u">
-                        {% endif %}
-                            <span class="image fit">
-                                <a href="{{url}}" data-lightbox="image-1" data-title="{{alt}}">
-                                    <img src="{{url}}" alt="{{alt}}" />
-                                </a>
-                            </span>
-                        </div>
+                            {% assign url = foto | split:" " | first%}
+                            {% assign alt = foto | replace_first:url | strip %}
+                            {% if forloop.index == 1 %}
+                            <div class="12u">
+                            {% else %}
+                            <div class="4u">
+                            {% endif %}
+                                <span class="image fit">
+                                    <a href="{{url}}" data-lightbox="image-1" data-title="{{alt}}">
+                                        <img src="{{url}}" alt="{{alt}}" />
+                                    </a>
+                                </span>
+                            </div>
                         {% endfor %}
                     </div>
                 </div>
@@ -86,6 +86,15 @@ layout: default
                     <span class="icon alt fa-home"></span>
                     <h3>Endereço</h3>
                     <span>{{ page.endereco }}</span>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.site != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-link"></span>
+                    <h3>Site</h3>
+                    <a href="http://{{ page.site }}" target="_blank">{{ page.site }}</a>
                 </div>
             </section>
             {% endif %}

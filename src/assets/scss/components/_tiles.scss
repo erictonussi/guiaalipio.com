@@ -47,7 +47,8 @@
 			}
 
 			h3 {
-				font-size: 1.75em;
+				font-size: 1.4em;
+                font-weight: 400;
                 line-height: 1;
                 max-width: 100%; 
 
@@ -149,7 +150,10 @@
 			}
 
             &.highlight {
-                width: 33.3333%;
+                width: 33.3333vw;
+                h3 {
+                    font-size: 1.8em;
+                }
             }
 		}
 
@@ -167,7 +171,7 @@
 				width: 33.3333% !important;
                 height: 10em;
                 &.highlight {
-                    width: 50% !important;
+                    width: 50vw !important;
                 }
 			}
 		}
@@ -185,7 +189,7 @@
 				}
 
                 &.highlight {
-                    width: 100% !important;
+                    width: 100vw !important;
                 }
 			}
 		}

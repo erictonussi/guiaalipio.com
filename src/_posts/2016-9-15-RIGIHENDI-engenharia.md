@@ -2,14 +2,18 @@
 layout: post
 title: Rigihendi
 description: Engenharia de Agrimensura e Civil
+highlight: true
 image: 27.jpg
 tags: engenharia agrimensura  
 telefone: (31) 9 9974–1404 (Vânio) 
-          (31) 9 9745–7532 (Walderley) 
-          (31) 9 9283–0133 (Ricardo)
-e-mail:   engvanio@hotmail.com - Eng. Vânio Lúcio Lopes Pinto       
-          wanderdiniz@gmail.com - Eng. Wanderley Teodoro Diniz    
-          ricardogiulianodiniz@ig.com.br - Eng. Ricardo Giuliano H. Diniz   
+           </br>(31) 9 9745–7532 (Walderley) 
+           </br>(31) 9 9283–0133 (Ricardo)
+e-mail:  Eng. Vânio Lúcio Lopes Pinto
+         </br>engvanio@hotmail.com -        
+           </br>Eng. Wanderley Teodoro Diniz 
+           </br>wanderdiniz@gmail.com   
+           </br>Eng. Ricardo Giuliano H. Diniz 
+           </br>ricardogiulianodiniz@ig.com.br   
 site: 
 endereco:
    

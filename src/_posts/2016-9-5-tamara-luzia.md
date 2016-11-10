@@ -9,10 +9,10 @@ e-mail:
 site: 
 endereco:
     Av. Abílio Machado, 1689 
-    Alípio de Melo, CEP 30830373
-    Rua Úrsula Paulino, 1782
-    Betânia, cep 30580002
-    Belo Horizonte - MG
+     </br>Alípio de Melo, CEP 30830-373
+    </br> Rua Úrsula Paulino, 1782
+    </br> Betânia, cep 30580002
+   </br>  Belo Horizonte - MG
 ---
 
 # Decorações

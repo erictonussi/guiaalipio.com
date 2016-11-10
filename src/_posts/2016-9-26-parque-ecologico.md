@@ -1,7 +1,7 @@
 ---
 layout: post
-title: P. E. Vencesli Firmino da Silva
-description: Parque
+title: Vencesli F.da Silva
+description: Parque Ecológico
 image: 39.jpg
 tags: parque lazer entretenimento
 telefone: (31) 3277-8403

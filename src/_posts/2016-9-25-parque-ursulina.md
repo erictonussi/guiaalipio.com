@@ -1,6 +1,6 @@
 ---
 layout: post
-title: P. Ursulina de Andrade Melo
+title: Ursulina de A. Melo
 description: Parque
 image: 38.jpg
 tags: parque lazer entretenimento

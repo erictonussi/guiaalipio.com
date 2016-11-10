@@ -9,8 +9,8 @@ e-mail: espacomdesign@gmail.com
 site: 
 endereco:
     Rua Romualdo Lopes Cançado, 343 loja 3
-    Castelo - CEP 30840460
-    Belo Horizonte - MG
+     </br>Castelo - CEP 30840-460
+     </br>Belo Horizonte - MG
 ---
 
 # Cortinas e Persianas

@@ -9,8 +9,8 @@ e-mail: jujubabalafesta@hotmail.com
 site: 
 endereco:
     Av. Abílio Machado, 1887 
-    Glória, CEP 31872350
-    Belo Horizonte - MG
+     </br>Glória, CEP 31872-350
+    </br> Belo Horizonte - MG
 ---
 
 # Bala e Festa

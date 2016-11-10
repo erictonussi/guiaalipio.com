@@ -1,6 +1,6 @@
 ---
 layout: post
-title: E. M. Marlene Pereira Rancante
+title: Marlene P. Rancante
 description: Escola Municipal
 image: 35.jpg
 tags: escola criança

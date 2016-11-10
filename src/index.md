@@ -16,7 +16,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">Quer anunciar?</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Clique e saiba mais</a></li>
+				<li><a href="/anuncie.html" class="button next scrolly">Clique e saiba mais</a></li>
 			</ul>
 		</div>
 	</div>

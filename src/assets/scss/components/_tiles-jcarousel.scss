@@ -23,11 +23,13 @@
 }
 
 .jcarousel .tiles {
-    width: 1000%;
     position: relative;
     list-style: none;
     margin: 0;
     padding: 0;
+    @media screen and (min-width: 736px) {
+        width: 1000%;
+    }
 }
 
 .jcarousel article {

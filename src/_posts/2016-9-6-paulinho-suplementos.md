@@ -2,6 +2,7 @@
 layout: post
 title: Paulinho
 description: Suplementos Alimentares
+highlight: true
 image: 19.jpg
 tags: suplementos alimentares malhação 
 telefone: (31) 3017-1130
@@ -9,8 +10,8 @@ e-mail:
 site: www.paulinhosuplementos.com.br
 endereco:
     Rua Batuíra
-    Alípio de Melo, CEP 30830630
-    Belo Horizonte - MG
+    </br> Alípio de Melo, CEP 30830-630
+    </br> Belo Horizonte - MG
 ---
 
 # Suplementos Alimentares

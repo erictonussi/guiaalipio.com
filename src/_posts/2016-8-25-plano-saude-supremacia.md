@@ -2,8 +2,7 @@
 layout: post
 title: Supremacia
 description:
-  Plano de Saúde e
-  <br/>Plano Odontológico
+  Planos de Saúde e Odontológicos
 image: 07.jpg
 tags: saúde plano odontológico 
 telefone: (31) 4102-5071
@@ -11,8 +10,8 @@ e-mail:
 site:  www.supremaciaseguros.com.br
 endereco:
     Rua Dos Médicos 313 
-    Alípio de Melo CEP 30840020 
-    Belo Horizonte - MG
+     </br>Alípio de Melo CEP 30840020 
+     </br>Belo Horizonte - MG
 ---
 
 # Plano de Saúde e Odontológico

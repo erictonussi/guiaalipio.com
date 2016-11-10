@@ -11,8 +11,8 @@ e-mail:
 site: 
 endereco:
     Rua Leonil Prata, 400  
-    Alípio de Melo 
-    Belo Horizonte - MG
+     </br>Alípio de Melo 
+    </br> Belo Horizonte - MG
 ---
 
 # Chaveiro e Conveniência

@@ -8,8 +8,8 @@ telefone: (31) 3474-1066
 e-mail: 
 endereco:
     Av. Abílio Machado 2233
-    Alípio de Melo CEP 30830-433
-    Belo Horizonte - MG
+     </br> Alípio de Melo CEP 30830-433
+     </br> Belo Horizonte - MG
 ---
 
 # Material de Construção
