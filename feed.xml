@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-04T00:32:50-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Clube 7</title><link href="http://guiaalipio.com.br//clube7.html" rel="alternate" type="text/html" title="Clube 7" /><published>2016-10-03T00:00:00-03:00</published><updated>2016-10-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//clube7</id><content type="html" xml:base="http://guiaalipio.com.br//clube7.html">&lt;h1&gt;Clube&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-10T01:30:35-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Linhas de Ônibus</title><link href="http://guiaalipio.com.br//linhas-onibus.html" rel="alternate" type="text/html" title="Linhas de Ônibus" /><published>2016-10-07T00:00:00-03:00</published><updated>2016-10-07T00:00:00-03:00</updated><id>http://guiaalipio.com.br//linhas-onibus</id><content type="html" xml:base="http://guiaalipio.com.br//linhas-onibus.html">&lt;h1&gt;Transporte Público&lt;/h1&gt;
+
+&lt;p&gt;Consulte o site da BH Trans para confirmar os horários atualizados.&lt;/p&gt;
+
+&lt;table border=&quot;0&quot; width=&quot;98%&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; bgcolor=&quot;#DAE8EF&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;#0099FF&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Linha&lt;/span&gt;&lt;/th&gt;
+&lt;th bgcolor=&quot;#0099FF&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Nome da Linha&lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404A&quot; rel=&quot;external&quot;&gt;1404A&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;PALMEIRAS / ALIPIO DE MELO&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404B&quot; rel=&quot;external&quot;&gt;1404B&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;ESTRELA DO ORIENTE / JARDIM INCONFIDENCIA&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=30&quot; rel=&quot;external&quot;&gt;30&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;ESTACAO DIAMANTE/CENTRO&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4403D&quot; rel=&quot;external&quot;&gt;4403D&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;URCA-CONFISCO&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4410&quot; rel=&quot;external&quot;&gt;4410&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CELSO MACHADO VIA SARAMENHA/URCA&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=8401&quot; rel=&quot;external&quot;&gt;8401&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CACHOEIRINHA/SAO JOSE&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=9411&quot; rel=&quot;external&quot;&gt;9411&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CASA BRANCA/SAO JOSE&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=S54&quot; rel=&quot;external&quot;&gt;S54&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;DOM BOSCO / SHOPPING DEL REY&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Linha - Nome da Linha
+* 1404A - PALMEIRAS / ALIPIO DE MELO
+* 1404B - ESTRELA DO ORIENTE / JARDIM INCONFIDENCIA
+* 30 - ESTACAO DIAMANTE/CENTRO
+* 4403D - URCA-CONFISCO
+* 4410 - CELSO MACHADO VIA SARAMENHA/URCA
+* 8401 - CACHOEIRINHA/SAO JOSE
+* 9411 - CASA BRANCA/SAO JOSE
+* S54 - DOM BOSCO / SHOPPING DEL REY&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="ônibus" /><category term="transporte" /><category term="linhas" /><category term="horários" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//53.jpg" /></entry><entry><title type="html">Pedreiro Rafael</title><link href="http://guiaalipio.com.br//pedreiro-rafael.html" rel="alternate" type="text/html" title="Pedreiro Rafael" /><published>2016-10-06T00:00:00-03:00</published><updated>2016-10-06T00:00:00-03:00</updated><id>http://guiaalipio.com.br//pedreiro-rafael</id><content type="html" xml:base="http://guiaalipio.com.br//pedreiro-rafael.html">&lt;h1&gt;Construção e Reforma&lt;/h1&gt;
+
+&lt;p&gt;Rafael Franco Teobaldo oferece um serviço de qualidade, pontualidade e suporte total do começo ao fim da obra.  &lt;/p&gt;
+
+&lt;h2&gt;Construção&lt;/h2&gt;
+
+&lt;p&gt;Construção de muros, casas, reforma de banheiro, manutenção de pisos e rebocos. Especialista na construção, fundação,
+alvenaria, revestimentos e acabamentos.&lt;/p&gt;
+
+&lt;h2&gt;Reforma em geral e Serviços de Acabamento&lt;/h2&gt;
+
+&lt;p&gt;Instalação de porcelanatos, assentamento de pisos, limpeza e ajustes necessários em alvenaria.&lt;/p&gt;
+
+&lt;h2&gt;Paredes Externas&lt;/h2&gt;
+
+&lt;p&gt;Manutenção ou construção de fachadas.&lt;/p&gt;
+
+&lt;h2&gt;Portas e Janelas&lt;/h2&gt;
+
+&lt;p&gt;Instalação de portas, janelas, venezianas, esquadrias metálicas e sua recuperação.&lt;/p&gt;
+
+&lt;h3&gt;Outros Serviços:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lustração pós-obra;&lt;/li&gt;
+&lt;li&gt;Polimento de mármore;&lt;/li&gt;
+&lt;li&gt;Renovação de bancadas;&lt;/li&gt;
+&lt;li&gt;Polimento de granito.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="construção" /><category term="civil" /><category term="pedreiro" /><category term="obras" /><category term="reforma" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//52.jpg" /></entry><entry><title type="html">Bella Itália</title><link href="http://guiaalipio.com.br//bella-italia-pizzaria.html" rel="alternate" type="text/html" title="Bella Itália" /><published>2016-10-05T00:00:00-03:00</published><updated>2016-10-05T00:00:00-03:00</updated><id>http://guiaalipio.com.br//bella-italia-pizzaria</id><content type="html" xml:base="http://guiaalipio.com.br//bella-italia-pizzaria.html">&lt;h1&gt;Pizzaria&lt;/h1&gt;
+
+&lt;p&gt;Inaugurada em Janeiro de 2014 e com alguns segredos de família, o resultado é uma massa leve e de sabor particular.
+Pizzaria rústica e acolhedora, serve versões de pizza em 4 tamanhos, além de massas e saladas, buscando oferecer opções saudáveis.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="comida" /><category term="alimentação" /><category term="restaurante" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//51.jpg" /></entry><entry><title type="html">Polícia Militar</title><link href="http://guiaalipio.com.br//policia-militar.html" rel="alternate" type="text/html" title="Polícia Militar" /><published>2016-10-04T00:00:00-03:00</published><updated>2016-10-04T00:00:00-03:00</updated><id>http://guiaalipio.com.br//policia-militar</id><content type="html" xml:base="http://guiaalipio.com.br//policia-militar.html">&lt;h1&gt;8º  Comando&lt;/h1&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="segurança" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//50.jpg" /></entry><entry><title type="html">Clube 7</title><link href="http://guiaalipio.com.br//clube7.html" rel="alternate" type="text/html" title="Clube 7" /><published>2016-10-03T00:00:00-03:00</published><updated>2016-10-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//clube7</id><content type="html" xml:base="http://guiaalipio.com.br//clube7.html">&lt;h1&gt;Clube&lt;/h1&gt;
 
 &lt;p&gt;Clube destinado a Associação dos Moradores da Região do Serrano.&lt;/p&gt;
 
@@ -132,77 +216,4 @@ Conjunto Habitacional Alípio de Melo, parceria de cooperativas de trabalhadores
 &lt;li&gt; S54 (Dom Bosco/Shopping Del Rey)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Fonte: &lt;a href=&quot;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&quot;&gt;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="Alípio" /><category term="de" /><category term="Melo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//42.jpg" /></entry><entry><title type="html">Castelo</title><link href="http://guiaalipio.com.br//castelo.html" rel="alternate" type="text/html" title="Castelo" /><published>2016-09-28T00:00:00-03:00</published><updated>2016-09-28T00:00:00-03:00</updated><id>http://guiaalipio.com.br//castelo</id><content type="html" xml:base="http://guiaalipio.com.br//castelo.html">&lt;h1&gt;Bairro&lt;/h1&gt;
-
-&lt;p&gt;&amp;ldquo;O Castelo é um bairro relativamente novo. A área onde hoje ele se localiza fazia parte da Fazenda dos Menezes 
-(também conhecida como Fazenda da Serra), que era de propriedade do coronel Francisco Menezes Filho e foi responsável 
-durante muitos anos pelo abastecimento de leite, hortaliças e gêneros alimentícios da capital.
-Durante a década de 1970 com a expansão urbanística da região, os herdeiros do coronel iniciaram o loteamento do terreno.&lt;br&gt;
-O bairro passou a ser habitado na década de 1980, quando começaram as construções das redes de esgoto, de água pluvial e potável.  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Origem do nome&lt;/strong&gt;  &lt;/p&gt;
-
-&lt;p&gt;Segundo Lúcio Souza Assumpção, diretor executivo da Cinova, empresa responsável pelo planejamento do bairro, 
-o nome seria Castelo Branco, em homenagem aos militares, porém, para não desagradar a família Menezes, 
-com uma relação política, o nome ficou apenas Castelo.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linhas de atendimento do transporte coletivo no bairro:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3301B: Castelo - Centro&lt;/li&gt;
-&lt;li&gt;54A e 54B: - Circular Dom Bosco - Del Rey&lt;/li&gt;
-&lt;li&gt;Linha A via Castelo&lt;/li&gt;
-&lt;li&gt;Linha B via Pe. Eustáquio&lt;/li&gt;
-&lt;li&gt;1404A: Alípio de Melo/Palmeiras&lt;/li&gt;
-&lt;li&gt;506: Jardim Alvorada - Via Castelo[6]&lt;/li&gt;
-&lt;li&gt;1404B: Incofidencia/Estrela Dalva&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Castelo_(Belo_Horizonte)&quot;&gt;https://pt.wikipedia.org/wiki/Castelo_(Belo_Horizonte)&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="castelo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//41.jpg" /></entry><entry><title type="html">Aprova</title><link href="http://guiaalipio.com.br//aprova-projetos-incendio.html" rel="alternate" type="text/html" title="Aprova" /><published>2016-09-28T00:00:00-03:00</published><updated>2016-09-28T00:00:00-03:00</updated><id>http://guiaalipio.com.br//aprova-projetos-incendio</id><content type="html" xml:base="http://guiaalipio.com.br//aprova-projetos-incendio.html">&lt;h1&gt;Projetos contra Incêndio&lt;/h1&gt;
-
-&lt;p&gt;Com o intuito de atender a demanda do mercado por profissionais qualificados na área de prevenção e combate a incêndio, 
-conduzimos nossas atividades com responsabilidade e por isso temos grande destaque em nosso segmento. &lt;/p&gt;
-
-&lt;h2&gt;Excelência e Profissionalismo&lt;/h2&gt;
-
-&lt;p&gt;Temos como foco elaboração de projetos, laudos técnicos (Prefeitura) consultoria e instalação de sistema de proteção e 
-combate à incêndio e pânico, contando com uma equipe qualificada de engenheiros e técnicos com vasta experiência 
-no mercado de projetos de combate a incêndio.&lt;/p&gt;
-
-&lt;h2&gt;Serviços&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Elaboração e aprovação de Projetos contra Incêndio, junto ao corpo de Bombeiro, para as mais diversas áreas de atuação;&lt;/li&gt;
-&lt;li&gt;Elaboração de Projetos conta Incêndio para Eventos Temporários, em edificações ou em locais abertos em todo o Estado;&lt;/li&gt;
-&lt;li&gt;Elaboração de Projetos de SPDA (Sistema de Proteção contra Descargas Atmosféricas – Pára Raios);&lt;/li&gt;
-&lt;li&gt;Fornecimento de Brigadistas e Bombeiros Civis para Evento e Edificações;&lt;/li&gt;
-&lt;li&gt;Aluguel de Equipamentos Contra Incêndio para Eventos;&lt;/li&gt;
-&lt;li&gt;Laudos e Pareceres Técnicos para a aprovação de sistema de prevenção e combate a incêndio junto ao Corpo de Bombeiro;&lt;/li&gt;
-&lt;li&gt;Laudo Técnico para Prefeitura – Atualização de Projetos de Combate a Incêndio e Pânico – Instalação de Sistema de Combate a Incêndio e Pânico;&lt;/li&gt;
-&lt;li&gt;Visita técnica para assessoria, bem como pré-vistoria antecedendo ao CBMMG (AVCB).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="projetos" /><category term="incêndio" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//44.jpg" /></entry><entry><title type="html">Villefort</title><link href="http://guiaalipio.com.br//villefort.html" rel="alternate" type="text/html" title="Villefort" /><published>2016-09-27T00:00:00-03:00</published><updated>2016-09-27T00:00:00-03:00</updated><id>http://guiaalipio.com.br//villefort</id><content type="html" xml:base="http://guiaalipio.com.br//villefort.html">&lt;h1&gt;Atacadista&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dispõe de um serviço de televendas, proporcionando melhor preço, agilidade e a comodidade da venda por telefone.&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;História&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1988 – Nasce o Villefort Atacadista. É Implantada no Pavilhão 10 na Ceasa-MG, a primeira loja.&lt;/li&gt;
-&lt;li&gt;1991 – A 1ª. Loja é ampliada para atender pequenos supermercados, mercearias, bares, restaurantes, hotéis, lanchonetes, padarias, confeitarias, dogueiros, cozinhas industriais.&lt;/li&gt;
-&lt;li&gt;2015 – 11ª. Loja – Brigadeiro Eduardo Gomes, Glória, Cidade de Belo Horizonte.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fonte: &lt;a href=&quot;http://www.villefort.com.br/historia&quot;&gt;http://www.villefort.com.br/historia&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="atacadista" /><category term="supermercado" /><category term="alimentação" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//43.jpg" /></entry><entry><title type="html">Drogaria Araújo</title><link href="http://guiaalipio.com.br//drogaria-araujo.html" rel="alternate" type="text/html" title="Drogaria Araújo" /><published>2016-09-27T00:00:00-03:00</published><updated>2016-09-27T00:00:00-03:00</updated><id>http://guiaalipio.com.br//drogaria-araujo</id><content type="html" xml:base="http://guiaalipio.com.br//drogaria-araujo.html">&lt;h1&gt;Farmácia&lt;/h1&gt;
-
-&lt;p&gt;&amp;ldquo;Em 1906, quando a capital mineira tinha apenas 9 anos, Abelardo de Faria Alvim e José Lage Martins da Costa fundaram a 
-Pharmácia Mineira e, três anos depois, contrataram como balconista o jovem Modesto Carvalho de Araujo, 
-que na época tinha apenas 17 anos.&lt;br&gt;
-Empreendedor e dedicado, Modesto comprou a farmácia de seus empregadores em 1913, mudando em seguida o nome 
-para “Drogaria Araujo”. Sem imaginar que, mais de 100 anos depois, o nome da família continuaria associado aos 
-valores que ele tanto prezava: pioneirismo, seriedade, compromisso, ética, respeito pela vida, 
-tradição, inovação e atenção aos detalhes em tudo o que faz. O nome Araujo hoje é mais do que uma marca forte: 
-é um patrimônio de toda a cidade.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Fonte: &lt;a href=&quot;http://www.araujo.com.br/&quot;&gt;http://www.araujo.com.br/&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="farmácia" /><category term="drogaria" /><category term="remédio" /><category term="conveniência" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//40.jpg" /></entry></feed>
+&lt;p&gt;Fonte: &lt;a href=&quot;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&quot;&gt;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="Alípio" /><category term="de" /><category term="Melo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//42.jpg" /></entry></feed>
