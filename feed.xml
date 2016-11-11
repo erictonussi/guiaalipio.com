@@ -1,57 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-10T01:30:35-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Linhas de Ônibus</title><link href="http://guiaalipio.com.br//linhas-onibus.html" rel="alternate" type="text/html" title="Linhas de Ônibus" /><published>2016-10-07T00:00:00-03:00</published><updated>2016-10-07T00:00:00-03:00</updated><id>http://guiaalipio.com.br//linhas-onibus</id><content type="html" xml:base="http://guiaalipio.com.br//linhas-onibus.html">&lt;h1&gt;Transporte Público&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://guiaalipio.com.br//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://guiaalipio.com.br//feed.xml" rel="self" type="application/atom+xml" /><link href="http://guiaalipio.com.br//" rel="alternate" type="text/html" /><updated>2016-11-11T12:43:31-02:00</updated><id>http://guiaalipio.com.br///</id><title type="html">Guia Alípio</title><subtitle>Guia Alípio</subtitle><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><entry><title type="html">Divaldo</title><link href="http://guiaalipio.com.br//divaldo-carroceiro.html" rel="alternate" type="text/html" title="Divaldo" /><published>2016-10-12T00:00:00-03:00</published><updated>2016-10-12T00:00:00-03:00</updated><id>http://guiaalipio.com.br//divaldo-carroceiro</id><content type="html" xml:base="http://guiaalipio.com.br//divaldo-carroceiro.html">&lt;h1&gt;Carroceiro&lt;/h1&gt;
+
+&lt;p&gt;Recolhimento de entulho e lixo. Entre em contato para mais informações.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="carroceiro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//57.jpg" /></entry><entry><title type="html">Michelle Paixão</title><link href="http://guiaalipio.com.br//michelle-paixao-diarista.html" rel="alternate" type="text/html" title="Michelle Paixão" /><published>2016-10-11T00:00:00-03:00</published><updated>2016-10-11T00:00:00-03:00</updated><id>http://guiaalipio.com.br//michelle-paixao-diarista</id><content type="html" xml:base="http://guiaalipio.com.br//michelle-paixao-diarista.html">&lt;h1&gt;Diarista&lt;/h1&gt;
+
+&lt;p&gt;Limpeza de qualidade, com confiança e compromisso para moradores de Contagem e região.&lt;/p&gt;
+
+&lt;h3&gt;Serviços:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Limpeza residencial;&lt;/li&gt;
+&lt;li&gt;Comercial;&lt;/li&gt;
+&lt;li&gt;Salões de Festa.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="limpeza" /><category term="diarista" /><category term="faxina" /><category term="faxineira" /><category term="higiene" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//56.jpg" /></entry><entry><title type="html">Correios</title><link href="http://guiaalipio.com.br//correios.html" rel="alternate" type="text/html" title="Correios" /><published>2016-10-10T00:00:00-03:00</published><updated>2016-10-10T00:00:00-03:00</updated><id>http://guiaalipio.com.br//correios</id><content type="html" xml:base="http://guiaalipio.com.br//correios.html">&lt;h1&gt;Agências Bancárias&lt;/h1&gt;
+
+&lt;h2&gt;Serviços:&lt;/h2&gt;
+
+&lt;p&gt;Clique nos serviços para mais informações.
+ &lt;/br&gt; &lt;a href=&quot;https://www2.correios.com.br/sistemas/rastreamento/&quot;&gt;Rastreamento&lt;/a&gt; 
+ &lt;/br&gt; &lt;a href=&quot;https://www.buscacep.correios.com.br/sistemas/buscacep/&quot;&gt;Busca Cep&lt;/a&gt; 
+ &lt;/br&gt; &lt;a href=&quot;https://www2.correios.com.br/sistemas/precosPrazos/&quot;&gt;Preços e Prazos de Entrega&lt;/a&gt;
+ &lt;/br&gt; &lt;a href=&quot;https://www2.correios.com.br/sistemas/agencias/&quot;&gt;Agências&lt;/a&gt;
+ &lt;/br&gt; &lt;a href=&quot;https://www2.correios.com.br/enderecador/&quot;&gt;Endereçador&lt;/a&gt;
+ &lt;/br&gt; &lt;a href=&quot;https://www2.correios.com.br/disqueColeta/default.cfm&quot;&gt;Disque Coleta&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="correios" /><category term="agencia" /><category term="cartas" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//55.jpg" /></entry><entry><title type="html">Bancos</title><link href="http://guiaalipio.com.br//bancos-agencias.html" rel="alternate" type="text/html" title="Bancos" /><published>2016-10-09T00:00:00-03:00</published><updated>2016-10-09T00:00:00-03:00</updated><id>http://guiaalipio.com.br//bancos-agencias</id><content type="html" xml:base="http://guiaalipio.com.br//bancos-agencias.html">&lt;h1&gt;Agências Bancárias&lt;/h1&gt;
+
+&lt;h2&gt;Banco do Brasil&lt;/h2&gt;
+
+&lt;p&gt;Av. Abílio Machado, 1730 
+&lt;/br&gt;  Alípio de Melo, CEP 30830-000
+&lt;/br&gt;  Telefone: (31) 34743293
+&lt;/br&gt; &lt;a href=&quot;http://www.bancodobrasil.com.br&quot;&gt;www.bancodobrasil.com.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;BMG&lt;/h2&gt;
+
+&lt;p&gt;Av. Abílio Machado, 2161
+&lt;/br&gt;  Alípio de Melo, CEP 30830-000
+&lt;/br&gt;  Telefone: (31) 3417-7214
+&lt;/br&gt; &lt;a href=&quot;http://www.bancobmg.com.br&quot;&gt;www.bancobmg.com.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Bradesco&lt;/h2&gt;
+
+&lt;p&gt;Av. Abílio Machado, 1597
+&lt;/br&gt; Dom Bosco, CEP 30830-000
+&lt;/br&gt; Telefone: (31) 3474-4477
+&lt;/br&gt; &lt;a href=&quot;http://www.bradesco.com.br&quot;&gt;www.bradesco.com.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Caixa Econômica Federal&lt;/h2&gt;
+
+&lt;p&gt;Av. Abílio Machado, 1873 
+&lt;/br&gt;  Jardim Inconfidência, CEP 30830-000
+&lt;/br&gt;  Telefone: (31) 3419-5581 
+&lt;/br&gt; &lt;a href=&quot;http://www.caixa.gov.br&quot;&gt;www.caixa.gov.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Itaú&lt;/h2&gt;
+
+&lt;p&gt;Rua Romualdo Lopes Cançado, 88 
+&lt;/br&gt;  Castelo, CEP 30840-460
+&lt;/br&gt;  Telefone: (31) 3003-5807
+&lt;/br&gt; &lt;a href=&quot;http://www.itau.com.br&quot;&gt;www.itau.com.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Santander&lt;/h2&gt;
+
+&lt;p&gt;Rua dos Agrônomos, 185 
+&lt;/br&gt;  Alípio de Melo, CEP 30840-110
+&lt;/br&gt;  Telefone: (31) 34712719
+&lt;/br&gt; &lt;a href=&quot;http://www.santander.com.br&quot;&gt;www.santander.com.br&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="bancos" /><category term="itau" /><category term="santander" /><category term="banco-do-brasil" /><category term="caixa-economica-federal" /><category term="utilidade-publica" /><category term="bradesco" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//54.jpg" /></entry><entry><title type="html">Delegacia Polícia Civil</title><link href="http://guiaalipio.com.br//delegacia-policia-civil.html" rel="alternate" type="text/html" title="Delegacia Polícia Civil" /><published>2016-10-08T00:00:00-03:00</published><updated>2016-10-08T00:00:00-03:00</updated><id>http://guiaalipio.com.br//delegacia-policia-civil</id><content type="html" xml:base="http://guiaalipio.com.br//delegacia-policia-civil.html">&lt;h1&gt;Plantão Noroeste&lt;/h1&gt;
+
+&lt;h3&gt;Objetivo Operacional e Competências Legais&lt;/h3&gt;
+
+&lt;p&gt;A Polícia Civil é o órgão da segurança pública encarregado do exercício de polícia judiciária, 
+que compreende o cumprimento das determinações emanadas do poder judiciário, bem como a apuração das 
+infrações penais, que não sejam as militares e aquelas não tenham sido cometidas contra interesses da União.
+A atividade investigativa consiste na coleta de indícios da prática de infração penal, objetivando-se 
+identificar a autoria do fato definido na legislação penal, fornecendo-se subsídios para a abertura do
+processo criminal e por consequência, a punição dos autores.
+Cumpre, ainda, à Polícia Civil, o processo de identificação civil e o registro e licenciamento de veículo automotor 
+e habilitação de condutor.&lt;/p&gt;
+
+&lt;p&gt;Fonte/mais informações: ww.policiacivil.mg.gov.br&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="segurança" /><category term="delegacia" /><category term="policia" /><category term="policia-civil" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//50.jpg" /></entry><entry><title type="html">Linhas de Ônibus</title><link href="http://guiaalipio.com.br//linhas-onibus.html" rel="alternate" type="text/html" title="Linhas de Ônibus" /><published>2016-10-07T00:00:00-03:00</published><updated>2016-10-07T00:00:00-03:00</updated><id>http://guiaalipio.com.br//linhas-onibus</id><content type="html" xml:base="http://guiaalipio.com.br//linhas-onibus.html">&lt;h1&gt;Transporte Público&lt;/h1&gt;
 
 &lt;p&gt;Consulte o site da BH Trans para confirmar os horários atualizados.&lt;/p&gt;
 
-&lt;table border=&quot;0&quot; width=&quot;98%&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; bgcolor=&quot;#DAE8EF&quot;&gt;
-&lt;tbody&gt;
+&lt;table&gt;&lt;thead&gt;
 &lt;tr&gt;
-&lt;th bgcolor=&quot;#0099FF&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Linha&lt;/span&gt;&lt;/th&gt;
-&lt;th bgcolor=&quot;#0099FF&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Nome da Linha&lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Linha&lt;/th&gt;
+&lt;th&gt;Nome da Linha&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404A&quot;&gt;1404A&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404A&quot;&gt;PALMEIRAS / ALIPIO DE MELO&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404A&quot; rel=&quot;external&quot;&gt;1404A&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;PALMEIRAS / ALIPIO DE MELO&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404B&quot;&gt;1404B&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404B&quot;&gt;ESTRELA DO ORIENTE / JARDIM INCONFIDENCIA&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=1404B&quot; rel=&quot;external&quot;&gt;1404B&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;ESTRELA DO ORIENTE / JARDIM INCONFIDENCIA&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=30&quot;&gt;30&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=30&quot;&gt;ESTACAO DIAMANTE/CENTRO&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=30&quot; rel=&quot;external&quot;&gt;30&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;ESTACAO DIAMANTE/CENTRO&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4403D&quot;&gt;4403D&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4403D&quot;&gt;URCA-CONFISCO&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4403D&quot; rel=&quot;external&quot;&gt;4403D&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;URCA-CONFISCO&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4410&quot;&gt;4410&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4410&quot;&gt;CELSO MACHADO VIA SARAMENHA/URCA&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=4410&quot; rel=&quot;external&quot;&gt;4410&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CELSO MACHADO VIA SARAMENHA/URCA&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=8401&quot;&gt;8401&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=8401&quot;&gt;CACHOEIRINHA/SAO JOSE&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=8401&quot; rel=&quot;external&quot;&gt;8401&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CACHOEIRINHA/SAO JOSE&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=9411&quot;&gt;9411&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=9411&quot;&gt;CASA BRANCA/SAO JOSE&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=9411&quot; rel=&quot;external&quot;&gt;9411&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CASA BRANCA/SAO JOSE&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;icon alt small fa-search&quot;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=S54&quot;&gt;S54&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=S54&quot;&gt;DOM BOSCO / SHOPPING DEL REY&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;25%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;a class=&quot;ui-link&quot; style=&quot;color: #000000&quot; href=&quot;http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S01F02-quadroHorarioResultado.asp?linha=S54&quot; rel=&quot;external&quot;&gt;S54&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td width=&quot;75%&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;DOM BOSCO / SHOPPING DEL REY&lt;/span&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Linha - Nome da Linha
-* 1404A - PALMEIRAS / ALIPIO DE MELO
-* 1404B - ESTRELA DO ORIENTE / JARDIM INCONFIDENCIA
-* 30 - ESTACAO DIAMANTE/CENTRO
-* 4403D - URCA-CONFISCO
-* 4410 - CELSO MACHADO VIA SARAMENHA/URCA
-* 8401 - CACHOEIRINHA/SAO JOSE
-* 9411 - CASA BRANCA/SAO JOSE
-* S54 - DOM BOSCO / SHOPPING DEL REY&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="ônibus" /><category term="transporte" /><category term="linhas" /><category term="horários" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//53.jpg" /></entry><entry><title type="html">Pedreiro Rafael</title><link href="http://guiaalipio.com.br//pedreiro-rafael.html" rel="alternate" type="text/html" title="Pedreiro Rafael" /><published>2016-10-06T00:00:00-03:00</published><updated>2016-10-06T00:00:00-03:00</updated><id>http://guiaalipio.com.br//pedreiro-rafael</id><content type="html" xml:base="http://guiaalipio.com.br//pedreiro-rafael.html">&lt;h1&gt;Construção e Reforma&lt;/h1&gt;
+&lt;/tbody&gt;&lt;/table&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="ônibus" /><category term="transporte" /><category term="linhas" /><category term="horários" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//53.jpg" /></entry><entry><title type="html">Pedreiro Rafael</title><link href="http://guiaalipio.com.br//pedreiro-rafael.html" rel="alternate" type="text/html" title="Pedreiro Rafael" /><published>2016-10-06T00:00:00-03:00</published><updated>2016-10-06T00:00:00-03:00</updated><id>http://guiaalipio.com.br//pedreiro-rafael</id><content type="html" xml:base="http://guiaalipio.com.br//pedreiro-rafael.html">&lt;h1&gt;Construção e Reforma&lt;/h1&gt;
 
 &lt;p&gt;Rafael Franco Teobaldo oferece um serviço de qualidade, pontualidade e suporte total do começo ao fim da obra.  &lt;/p&gt;
 
@@ -82,7 +157,7 @@ alvenaria, revestimentos e acabamentos.&lt;/p&gt;
 &lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="construção" /><category term="civil" /><category term="pedreiro" /><category term="obras" /><category term="reforma" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//52.jpg" /></entry><entry><title type="html">Bella Itália</title><link href="http://guiaalipio.com.br//bella-italia-pizzaria.html" rel="alternate" type="text/html" title="Bella Itália" /><published>2016-10-05T00:00:00-03:00</published><updated>2016-10-05T00:00:00-03:00</updated><id>http://guiaalipio.com.br//bella-italia-pizzaria</id><content type="html" xml:base="http://guiaalipio.com.br//bella-italia-pizzaria.html">&lt;h1&gt;Pizzaria&lt;/h1&gt;
 
 &lt;p&gt;Inaugurada em Janeiro de 2014 e com alguns segredos de família, o resultado é uma massa leve e de sabor particular.
-Pizzaria rústica e acolhedora, serve versões de pizza em 4 tamanhos, além de massas e saladas, buscando oferecer opções saudáveis.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="comida" /><category term="alimentação" /><category term="restaurante" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//51.jpg" /></entry><entry><title type="html">Polícia Militar</title><link href="http://guiaalipio.com.br//policia-militar.html" rel="alternate" type="text/html" title="Polícia Militar" /><published>2016-10-04T00:00:00-03:00</published><updated>2016-10-04T00:00:00-03:00</updated><id>http://guiaalipio.com.br//policia-militar</id><content type="html" xml:base="http://guiaalipio.com.br//policia-militar.html">&lt;h1&gt;8º  Comando&lt;/h1&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="segurança" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//50.jpg" /></entry><entry><title type="html">Clube 7</title><link href="http://guiaalipio.com.br//clube7.html" rel="alternate" type="text/html" title="Clube 7" /><published>2016-10-03T00:00:00-03:00</published><updated>2016-10-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//clube7</id><content type="html" xml:base="http://guiaalipio.com.br//clube7.html">&lt;h1&gt;Clube&lt;/h1&gt;
+Pizzaria rústica e acolhedora, serve versões de pizza em 4 tamanhos, além de massas e saladas, buscando oferecer opções saudáveis.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="comida" /><category term="alimentação" /><category term="restaurante" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//51.jpg" /></entry><entry><title type="html">Polícia Militar</title><link href="http://guiaalipio.com.br//policia-militar.html" rel="alternate" type="text/html" title="Polícia Militar" /><published>2016-10-04T00:00:00-03:00</published><updated>2016-10-04T00:00:00-03:00</updated><id>http://guiaalipio.com.br//policia-militar</id><content type="html" xml:base="http://guiaalipio.com.br//policia-militar.html">&lt;h1&gt;8º  Comando&lt;/h1&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="segurança" /><category term="policia-militar" /><category term="policia" /><category term="comando" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//50.jpg" /></entry><entry><title type="html">Clube 7</title><link href="http://guiaalipio.com.br//clube7.html" rel="alternate" type="text/html" title="Clube 7" /><published>2016-10-03T00:00:00-03:00</published><updated>2016-10-03T00:00:00-03:00</updated><id>http://guiaalipio.com.br//clube7</id><content type="html" xml:base="http://guiaalipio.com.br//clube7.html">&lt;h1&gt;Clube&lt;/h1&gt;
 
 &lt;p&gt;Clube destinado a Associação dos Moradores da Região do Serrano.&lt;/p&gt;
 
@@ -92,128 +167,4 @@ Pizzaria rústica e acolhedora, serve versões de pizza em 4 tamanhos, além de 
 &lt;li&gt;Lanchonete;&lt;/li&gt;
 &lt;li&gt;Academia;&lt;/li&gt;
 &lt;li&gt;Piscina aquecida.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="clube" /><category term="piscina" /><category term="lazer" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//49.jpg" /></entry><entry><title type="html">GCAM</title><link href="http://guiaalipio.com.br//GCAM.html" rel="alternate" type="text/html" title="GCAM" /><published>2016-10-02T00:00:00-03:00</published><updated>2016-10-02T00:00:00-03:00</updated><id>http://guiaalipio.com.br//GCAM</id><content type="html" xml:base="http://guiaalipio.com.br//GCAM.html">&lt;h1&gt;Clube&lt;/h1&gt;
-
-&lt;p&gt;Grêmio Comunitário Alípio de Melo é uma organização de entretenimento e lazer destinado aos moradores do Bairro Alípio de Melo 
-e região.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="clube" /><category term="piscina" /><category term="lazer" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//48.jpg" /></entry><entry><title type="html">E-Drones</title><link href="http://guiaalipio.com.br//e-drone.html" rel="alternate" type="text/html" title="E-Drones" /><published>2016-10-01T00:00:00-03:00</published><updated>2016-10-01T00:00:00-03:00</updated><id>http://guiaalipio.com.br//e-drone</id><content type="html" xml:base="http://guiaalipio.com.br//e-drone.html">&lt;h1&gt;Fotogrametria e Imagens Aéreas&lt;/h1&gt;
-
-&lt;p&gt;Empresa especializada em captação de imagens aéreas por meio de drones, possibilitando imagens de áreas restritas:
-* Avaliação de áreas de risco ou de difícil acesso; 
-* Observação da vista em um tempo muito menor do que em uma observação terrestre;
-* Registro de solos e plataformas;
-* Vistorias para uma pré-manutenção;
-* Mapeamento topográfico;
-* Eventos: captação de imagens de casamento, 15 anos, formatura.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="drones" /><category term="fotogrametria" /><category term="aérea" /><category term="imagens" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//47.jpg" /></entry><entry><title type="html">Em Forma</title><link href="http://guiaalipio.com.br//em-forma-academia.html" rel="alternate" type="text/html" title="Em Forma" /><published>2016-09-30T00:00:00-03:00</published><updated>2016-09-30T00:00:00-03:00</updated><id>http://guiaalipio.com.br//em-forma-academia</id><content type="html" xml:base="http://guiaalipio.com.br//em-forma-academia.html">&lt;h1&gt;Academia&lt;/h1&gt;
-
-&lt;p&gt;A Academia Em Forma possui uma completa infra-estrutura para seu lazer, com mais de 3.000 m2 de área construída e
-150 equipamentos distribuídos em 12 salas. &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;30 esteiras;&lt;/li&gt;
-&lt;li&gt;Área de artes marciais;&lt;/li&gt;
-&lt;li&gt;Spinning;&lt;/li&gt;
-&lt;li&gt;Piscina;&lt;/li&gt;
-&lt;li&gt;Circuito para Treinamento Funcional;&lt;/li&gt;
-&lt;li&gt;Quadra de peteca;&lt;/li&gt;
-&lt;li&gt;Espaço kids;&lt;/li&gt;
-&lt;li&gt;Lanchonete. &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="academia" /><category term="saúde" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//46.jpg" /></entry><entry><title type="html">Stúdio Beagarra</title><link href="http://guiaalipio.com.br//beagarra.html" rel="alternate" type="text/html" title="Stúdio Beagarra" /><published>2016-09-29T00:00:00-03:00</published><updated>2016-09-29T00:00:00-03:00</updated><id>http://guiaalipio.com.br//beagarra</id><content type="html" xml:base="http://guiaalipio.com.br//beagarra.html">&lt;h1&gt;Academia&lt;/h1&gt;
-
-&lt;p&gt;Não é o modelo de academia tradicional que oferece atividade repetitiva, sem diversão, motivação e resultados
-insignificantes. A Beagarra atende a pequenos grupos (até 10 participantes) com treinamento de peso corporal de alta qualidade,
-no stúdio ou ao ar livre priorizando o trabalho em equipe e criando um espírito de comunidade entre os participantes.&lt;br&gt;
-Treinamentos personalizados que combinam exercícios com peso corporal e artes marciais, que levam o corpo ir além do que você pensava
-que era capaz, promovendo uma forma natural, divertida e segura de se exercitar.&lt;/p&gt;
-
-&lt;h2&gt;Modalidades&lt;/h2&gt;
-
-&lt;h3&gt;Boxe&lt;/h3&gt;
-
-&lt;p&gt;Aula de condicionamento físico que utiliza a técnica e exercícios como, por exemplo, pular corda, esquiva, 
-saco de pancada e movimentação. 
-O ritmo intenso e dinâmico proporciona resultados rápidos, sem as lesões e traumas do esporte pelo contato.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Simulação de combate sem contato físico (sombra);&lt;/li&gt;
-&lt;li&gt; Treino técnico e cardio utilizando manoplas;&lt;/li&gt;
-&lt;li&gt;Treinos específicos para resistência e fortalecimento abdominal.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Muay Thai&lt;/h3&gt;
-
-&lt;p&gt;Treinos que iniciam com aquecimento (alongamentos, polichinelos, flexões de braços, abdominais e agachamentos),
-e segue com aperfeiçoamento de diferentes formas de socos, chutes, cotoveladas e 
-joelhadas e de domínio do adversário (clinch).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Simulação de combate sem contato físico (sombra);&lt;/li&gt;
-&lt;li&gt;Treino técnico e cárdio utilizando aparadores (pads);&lt;/li&gt;
-&lt;li&gt;Treinos específicos para resistência e fortalecimento abdominal.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Calistenia&lt;/h3&gt;
-
-&lt;p&gt;São exercícios que usam o peso do corpo como carga (flexões, abdominais, barras e paralelas, por exemplo).
-As sessões de calistenia são precedidas de alongamentos intensos, de modo a aquecer os músculos e preparar as articulações.
-Esta atividade tem uma execução simples e pode ser realizada por qualquer pessoa.&lt;br&gt;
-Destinado para quem quer desenvolver, principalmente, força, flexibilidade corporal, equilíbrio, agilidade e coordenação.&lt;/p&gt;
-
-&lt;h3&gt;MammaFit&lt;/h3&gt;
-
-&lt;p&gt;Dedicado às mulheres em uma fase especial e delicada como a do pós-parto. 
-Visa a tonificação muscular e bem-estar da mãe com exercícios  que envolvem todos os grupos  musculares, 
-em especial atenção à  recuperação gradual dos músculos abdominais e pélvicos, 
-com um diferencial importante que é o de não afastarem-se de seus filhos no decorrer dessas atividades.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Atividades lúdicas e esportivas para as mães e seus bebês.&lt;/li&gt;
-&lt;li&gt;Momento de comunhão consigo mesma, com seu corpo e com seu filho.&lt;/li&gt;
-&lt;li&gt;Proporciona boas amizades com outras mães que estão no mesmo estado pós-parto.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Open Floor&lt;/h3&gt;
-
-&lt;p&gt;Serviço dedicado a atletas independetes que já conhecem o Street Workout e pussuem horário flexivel. O Open Floor permite o 
-atleta realizar seu próprio treino ou rotinas elaboradas por nossos treinadores, 
-podendo aprimorar suas deficiências e evoluir mais com atletas de outros níveis.&lt;/p&gt;
-
-&lt;h3&gt;Beagarra Girls ao Ar Livre&lt;/h3&gt;
-
-&lt;p&gt;O objetivo do Treinamento Funcional é promover a realizaçao de uma atividade física com performance 
-individualizada e alto gasto calórico, objetivando uma melhora na postura, alta 
-definição muscular e grande perda de peso, tudo isso sem a rotina massante das academias covencionais.&lt;br&gt;
-Traz enormes benefícios entre eles aumento do ganho de força, resistência aeróbia, ganho de massa muscular magra e 
-perda de gordura, além de ser uma ótima opção para sair da rotina.&lt;br&gt;
-Este método de treinamento atende tanto o indivíduo mais condicionado como o menos condicionado, 
-criando um ambiente dinâmico e agradável de treino.&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="academia" /><category term="saúde" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//45.jpg" /></entry><entry><title type="html">Alípio de Melo</title><link href="http://guiaalipio.com.br//alipio-melo.html" rel="alternate" type="text/html" title="Alípio de Melo" /><published>2016-09-29T00:00:00-03:00</published><updated>2016-09-29T00:00:00-03:00</updated><id>http://guiaalipio.com.br//alipio-melo</id><content type="html" xml:base="http://guiaalipio.com.br//alipio-melo.html">&lt;h1&gt;Bairro&lt;/h1&gt;
-
-&lt;p&gt;&amp;ldquo;As ruas batizadas com nomes de profissões e pássaros dizem muito sobre o Bairro Alípio de Melo, na Região da Pampulha. 
-Relativamente jovem, o início da ocupação da região se deu nos anos 1970 e ganhou força na década de 1990. 
-Hoje, fora das avenidas com maior circulação de veículos e comércio, praças, vias arborizadas e muitas casas 
-fazem prevalecer a tranquilidade nesta agradável vizinhança típica da classe média belo-horizontina.  &lt;/p&gt;
-
-&lt;p&gt;Hoje, o Alípio de Melo conjuga o agito e intenso movimento de avenidas como a Abílio Machado e a dos Engenheiros, 
-com a tranquilidade quase interiorana de suas ruas. O diverso comércio e rede de serviços se concentra nas vias maiores. 
-São várias agências bancárias, padarias, açougues, hortifrútis, pequenos mercados, lojas de material de construção, 
-oficinas mecânicas, pequenos shoppings, supermercados, pet shops, loterias, escolas públicas e privadas. Ou seja, 
-tudo para atender seus habitantes. Boa oferta de linhas de ônibus e vias de acesso também facilitam a vida dos moradores.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Origem do nome&lt;/strong&gt;&lt;br&gt;
-&amp;ldquo;Loteado no terreno da antiga Fazenda São José, o nome do bairro homenageia o ex-proprietário coronel Alípio Ferreira de Melo. D
-e origem operária, um dos marcos do início da ocupação da região é a construção, em 1976, do 
-Conjunto Habitacional Alípio de Melo, parceria de cooperativas de trabalhadores com o Banco Nacional da Habitação.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linhas de atendimento do transporte coletivo no bairro:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1404A (Palmeiras/Alípio de Melo)&lt;/li&gt;
-&lt;li&gt;1404B (Estrela do Oriente/Jardim Inconfidência)&lt;/li&gt;
-&lt;li&gt; 1404C (Palmeiras/São Salvador)&lt;/li&gt;
-&lt;li&gt;4403A (Zoológico – via Serrano)&lt;/li&gt;
-&lt;li&gt;4403C (Residencial Sarandi)&lt;/li&gt;
-&lt;li&gt; 4403D (Urca/Confisco)&lt;/li&gt;
-&lt;li&gt; 4410 (Celso Machado – via Saramenho/Urca)&lt;/li&gt;
-&lt;li&gt; S54 (Dom Bosco/Shopping Del Rey)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fonte: &lt;a href=&quot;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&quot;&gt;http://estadodeminas.lugarcerto.com.br/app/noticia/noticias/2016/01/11/interna_noticias,49136/alipio-de-melo-tem-origem-operaria.shtml&lt;/a&gt;&lt;/p&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="Alípio" /><category term="de" /><category term="Melo" /><category term="bairro" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//42.jpg" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Eric Tonussi</name><email>eric@tonussi.com</email><uri>tonussi.com</uri></author><category term="clube" /><category term="piscina" /><category term="lazer" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://guiaalipio.com.br//49.jpg" /></entry></feed>
