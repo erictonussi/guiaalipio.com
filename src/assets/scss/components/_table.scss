@@ -24,6 +24,10 @@
 				&:nth-child(2n + 1) {
 					background-color: _palette(border-bg);
 				}
+
+                &.hover {
+                    cursor: pointer;
+                }
 			}
 		}
 
@@ -46,6 +50,10 @@
 		tfoot {
 			border-top: solid 2px _palette(border);
 		}
+
+        a {
+            border: 0;
+        }
 
 		&.alt {
 			border-collapse: separate;

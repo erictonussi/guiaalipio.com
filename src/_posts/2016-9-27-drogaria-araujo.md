@@ -9,8 +9,8 @@ e-mail:
 site: www.araujo.com.br
 endereco: 
     Av. dos Engenheiros, 560 
-    Castelo CEP 30840-300
-    Belo Horizonte, MG
+   </br>  Castelo CEP 30840-300
+   </br>  Belo Horizonte - MG
 ---
 
 # Farmácia 

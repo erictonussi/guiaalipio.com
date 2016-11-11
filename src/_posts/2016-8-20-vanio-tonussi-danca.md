@@ -11,11 +11,11 @@ endereco:
     Rua Jaó, 129
     </br> Alípio de Melo
     </br> Belo Horizonte - MG
-fotos:
-- assets/images/vanio-tonussi-danca/pic08.jpg teste
-- assets/images/vanio-tonussi-danca/pic10.jpg
-- assets/images/vanio-tonussi-danca/pic09.jpg
-- assets/images/vanio-tonussi-danca/pic08.jpg
+#fotos:
+#- assets/images/vanio-tonussi-danca/pic08.jpg teste
+#- assets/images/vanio-tonussi-danca/pic10.jpg
+#- assets/images/vanio-tonussi-danca/pic09.jpg
+#- assets/images/vanio-tonussi-danca/pic08.jpg
 ---
 #Professor de Dança
 

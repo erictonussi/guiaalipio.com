@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Olinto Magalhães, 2140
-    Dom Bosco - CEP 30830-050
-    Belo Horizonte, MG
+    </br> Dom Bosco - CEP 30830-050
+   </br>  Belo Horizonte - MG
 ---
 
 # Creche

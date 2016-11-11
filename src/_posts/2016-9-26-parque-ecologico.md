@@ -3,14 +3,14 @@ layout: post
 title: Vencesli F.da Silva
 description: Parque Ecológico
 image: 39.jpg
-tags: parque lazer entretenimento
+tags: parque lazer entretenimento utilidade-publica
 telefone: (31) 3277-8403
 e-mail:   
 site: 
 endereco: 
     Rua dos Agrônomos, 285 
-    Alípio de Melo
-    Belo Horizonte, MG
+    </br> Alípio de Melo
+   </br>  Belo Horizonte - MG
 ---
 
 # Parque Ecológico 

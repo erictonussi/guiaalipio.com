@@ -67,7 +67,7 @@ layout: default
                 <div class="contact-method">
                     <span class="icon alt fa-envelope"></span>
                     <h3>Email</h3>
-                    <a href="#">{{ page.e-mail }}</a>
+                    <span>{{ page.e-mail }}</span>
                 </div>
             </section>
             {% endif %}
@@ -101,19 +101,11 @@ layout: default
         </section>
     </div>
 </section>
+{% if page.endereco != nil %}
 <script>
-  function initMap() {
-    var uluru = {lat: -19.8925797, lng: -44.0196499};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 18,
-      center: uluru
-    });
-    var marker = new google.maps.Marker({
-      position: uluru,
-      map: map
-    });
-  }
+window.queryAddress='{{page.endereco | remove: "</br>" | strip_newlines}}';
 </script>
 <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW0etYWTU4sk8VOcxldeKU-WjAscOApEk&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW0etYWTU4sk8VOcxldeKU-WjAscOApEk&callback=initMap&libraries=places">
     </script>
+{% endif %}

@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Leonil Prata, S/N  
-    Alípio de Melo 
-    Belo Horizonte, MG
+    </br> Alípio de Melo 
+   </br>  Belo Horizonte - MG
 ---
 
 # Espaço Cênico

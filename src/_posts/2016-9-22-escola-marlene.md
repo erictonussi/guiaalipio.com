@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua dos Comerciantes, 38  
-    Alípio de Melo CEP 30840-010
-    Belo Horizonte, MG
+   </br>  Alípio de Melo CEP 30840-010
+   </br>  Belo Horizonte - MG
 ---
 
 # Escola Municipal

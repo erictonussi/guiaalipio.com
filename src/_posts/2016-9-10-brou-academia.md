@@ -2,6 +2,7 @@
 layout: post
 title: Brou Fitness
 description: Academia
+highlight: true
 image: 23.jpg
 tags: academia malhação corpo fitness 
 telefone: (31) 3474-4545

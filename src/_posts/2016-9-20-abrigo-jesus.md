@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Costa Sena, 959  
-    Padre Eustaquio CEP 30720-350
-    Belo Horizonte, MG
+    </br> Padre Eustaquio CEP 30720-350
+   </br>  Belo Horizonte - MG
 ---
 
 # Creche

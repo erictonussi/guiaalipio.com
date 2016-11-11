@@ -105,6 +105,14 @@
       }
     }
 
+    .icons {
+      @include vendor('display', 'flex');
+      @include vendor('justify-content', 'flex-end');
+      @include vendor('flex-grow', '1');
+      margin: 0 1.5em;
+      letter-spacing: 0;
+    }
+
     &.reveal {
       @include vendor('animation', 'reveal-header 0.35s ease');
     }

@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Violeta de Melo, 10
-    Alípio de Melo CEP 30820-650
-    Belo Horizonte, MG
+   </br>  Alípio de Melo CEP 30820-650
+   </br>  Belo Horizonte - MG
 ---
 
 # Associação Assistencial São Tiago

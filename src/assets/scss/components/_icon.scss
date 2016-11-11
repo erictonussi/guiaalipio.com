@@ -27,6 +27,15 @@
 				width: 2em;
 			}
 		}
+
+        &.small.alt {
+            &:before {
+                height: 2em;
+                line-height: 2em;
+                width: 2em;
+                font-size: 15px;
+            }
+        }
 	}
 
 	a.icon {

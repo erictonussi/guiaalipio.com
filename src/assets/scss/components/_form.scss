@@ -25,6 +25,7 @@
 
 		> .actions {
 			margin: (_size(element-margin) * 1.25) 0 0 0 !important;
+            text-align: right;
 		}
 
 		@include breakpoint(small) {

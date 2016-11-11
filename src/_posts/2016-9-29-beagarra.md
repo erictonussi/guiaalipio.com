@@ -9,8 +9,8 @@ e-mail:
 site: www.beagarra.com.br
 endereco: 
     Rua Dr. Sylvio Menicucci, 738
-    Castelo CEP 30840-480
-    Belo Horizonte, MG
+   </br>  Castelo CEP 30840-480
+    </br> Belo Horizonte - MG
 ---
 
 # Academia 

@@ -168,29 +168,29 @@
 
 						$link = $link.add($x);
 
-						$link.on('click', function(event) {
+						// $link.on('click', function(event) {
 
-							var href = $link.attr('href');
+						// 	var href = $link.attr('href');
 
-							// Prevent default.
-								event.stopPropagation();
-								event.preventDefault();
+						// 	// Prevent default.
+						// 		event.stopPropagation();
+						// 		event.preventDefault();
 
-							// Start transitioning.
-								$this.addClass('is-transitioning');
-								$wrapper.addClass('is-transitioning');
+						// 	// Start transitioning.
+						// 		$this.addClass('is-transitioning');
+						// 		$wrapper.addClass('is-transitioning');
 
-							// Redirect.
-								window.setTimeout(function() {
+						// 	// Redirect.
+						// 		window.setTimeout(function() {
 
-									if ($link.attr('target') == '_blank')
-										window.open(href);
-									else
-										location.href = href;
+						// 			if ($link.attr('target') == '_blank')
+						// 				window.open(href);
+						// 			else
+						// 				location.href = href;
 
-								}, 500);
+						// 		}, 500);
 
-						});
+						// });
 
 					}
 
@@ -395,5 +395,88 @@
         .jcarouselControl({
             target: '+=1'
         });
+        
+    $('#contact form').submit(function(event) {
+        
+        // debugger;
+
+        // get the form data
+        // there are many ways to get this data using jQuery (you can use the class or id also)
+        // var formData = {
+        //     'name'              : $('input[name=name]').val(),
+        //     'email'             : $('input[name=email]').val(),
+        //     'superheroAlias'    : $('input[name=superheroAlias]').val()
+        // };
+        
+        var values = {};
+        $.each($(this).serializeArray(), function(i, field) {
+            values[field.name] = field.value;
+        });
+
+        // process the form
+        $.ajax({
+            type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
+            url         : this.action, // the url where we want to POST
+            data        : values, // our data object
+            dataType    : 'json', // what type of data do we expect back from the server
+                        encode          : true
+        })
+            // using the done promise callback
+            .done(function(data) {
+
+                // log data to the console so we can see
+                console.log(data);
+                alert('Email enviado com sucesso.');
+                window.location.reload()
+
+                // here we will handle errors and validation messages
+            });
+
+        // stop the form from submitting the normal way and refreshing the page
+        event.preventDefault();
+    });
+    
+    $(document.links).filter(function() {
+      return this.hostname != window.location.hostname;
+    }).attr('target', '_blank');
+    
+    $('.linked-table table tr').click( function(event) {
+        event.preventDefault();
+        // window.location = $(this).find('a[target]').attr('href');
+        var win = window.open($(this).find('a[target]').attr('href'), '_blank');
+        win.focus();
+    }).hover( function() {
+        $(this).toggleClass('hover');
+    });
 
 })(jQuery);
+
+var map;
+function initMap() {
+var uluru = {lat: -19.8965993, lng: -44.0132806};
+map = new google.maps.Map(document.getElementById('map'), {
+  zoom: 15,
+  center: uluru
+});
+window.queryAddress && codeAddress(window.queryAddress);
+}
+function codeAddress(query) {
+
+  var request = {
+    query: query
+  };
+
+  var service = new google.maps.places.PlacesService(map);
+  service.textSearch(request, function(results, status) {
+      if (status == google.maps.places.PlacesServiceStatus.OK) {
+        map.setCenter(results[0].geometry.location);
+        var marker = new google.maps.Marker({
+            map: map,
+            position: results[0].geometry.location
+        });
+        map.setZoom(19);
+      } else {
+        alert("Geocode was not successful for the following reason: " + status);
+      }
+    });
+}

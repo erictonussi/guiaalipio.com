@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JM Limpeza
-description: 
+description: Conservadora e Faxina
 image: 12.jpg
 tags: limpeza diarista faxina faxineira higiene
 telefone: (31) 9 8934-7322 (Juciléia Leite) 

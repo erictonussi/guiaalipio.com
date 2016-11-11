@@ -9,8 +9,8 @@ e-mail:
 site: 
 endereco:
     Rua Guaruba, 25  
-    Alípio Melo - CEP 30830-690
-    Belo Horizonte, MG
+   </br>  Alípio Melo - CEP 30830-690
+   </br>  Belo Horizonte - MG
 ---
 
 #Grupo de Voluntárias Pró Comunidades Perpétuas

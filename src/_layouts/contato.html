@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major">
+            <h1>{{ page.title }}</h1>
+        </header>
+
+        {{content}}
+    </div>
+</section>
+
+</div>
+
+<!-- Contact -->
+<section id="contact">
+    <div class="inner">
+        <section>
+            <form action="https://formspree.io/formspree@tonussi.com" method="POST">
+                <div class="field half first">
+                    <label for="name">Nome</label>
+                    <input type="text" name="name" id="name" required="">
+                </div>
+                <div class="field half">
+                    <label for="telefone">Telefone</label>
+                    <input type="text" name="_phone" id="phone" required="">
+                </div>
+                <div class="field">
+                    <label for="email">Email</label>
+                    <input type="text" name="_replyto" id="email">
+                </div>
+                <div class="field">
+                    <label for="message">Mensagem</label>
+                    <textarea name="message" id="message" rows="6" required=""></textarea>
+                </div>
+                <ul class="actions">
+                    <li><input type="submit" value="Enviar" class="special"></li>
+                </ul>
+            </form>
+        </section>
+        <section class="split">
+            {% if page.e-mail != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-envelope"></span>
+                    <h3>Email</h3>
+                    <span>{{ page.e-mail }}</span>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.telefone != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-phone"></span>
+                    <h3>Telefone</h3>
+                    <span>{{ page.telefone }}</span>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.endereco != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-home"></span>
+                    <h3>Endereço</h3>
+                    <span>{{ page.endereco }}</span>
+                </div>
+            </section>
+            {% endif %}
+            {% if page.site != nil %}
+            <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-link"></span>
+                    <h3>Site</h3>
+                    <a href="http://{{ page.site }}" target="_blank">{{ page.site }}</a>
+                </div>
+            </section>
+            {% endif %}
+        </section>
+    </div>
+</section>

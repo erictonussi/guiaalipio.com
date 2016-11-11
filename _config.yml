@@ -21,7 +21,7 @@ author:
   github: erictonussi
 
 tiles-source: posts # accepts "posts" or "pages" 
-tiles-count: 100
+tiles-count: 10000
 
 tag_page_layout: tag_page
 tag_page_dir: tag
@@ -33,7 +33,7 @@ show_drafts: true
 # Disables the more accurate related posts for faster generating of the site
 lsi: false
 # Only make the last 10 posts so generating isn't slow
-limit_posts: 1000
+limit_posts: 10000
 
 # Permalink structure and pagination options
 permalink: none

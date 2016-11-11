@@ -3,9 +3,9 @@ layout: home
 title: Home
 landing-title: Hi, my name is Forty
 description: 
-image: 
-author: 
-nav-menu: 
+image:
+author:
+nav-menu:
 ---
 <!-- Banner -->
 <section id="banner" class="major">
@@ -37,7 +37,7 @@ nav-menu:
 		<p> O Guia Alípio surgiu da necessidade de integração entre serviços, comércio e moradores do bairro Alípio de Melo e região.  
 		Conhecendo o espaço que nos cerca, poupamos tempo, dinheiro e criamos uma rede de interações cada vez mais fortalecida. E aí, vamos aquecer nossa região?</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">O que você procura?</a></li>
+			<li><a href="/sobre.html" class="button next">O que você procura?</a></li>
 		</ul>
 	</div>
 </section>

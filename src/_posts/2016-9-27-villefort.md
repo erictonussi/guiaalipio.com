@@ -9,8 +9,8 @@ e-mail: atendeceasa@villefort.com.br (Ceasa)
 site: www.villefort.com.br
 endereco: 
     Av. Brg. Eduardo Gomes, 2400 
-    Glória CEP 30870-100
-    Belo Horizonte, MG
+   </br>  Glória CEP 30870-100
+   </br>  Belo Horizonte - MG
 ---
 
 # Atacadista 

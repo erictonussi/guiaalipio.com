@@ -9,8 +9,8 @@ e-mail:
 site: www.academiaemforma.com.br
 endereco: 
     Rua Nilo, 25
-    Alípio de Melo 
-    Belo Horizonte, MG
+   </br>  Alípio de Melo 
+    </br> Belo Horizonte - MG
 ---
 
 # Academia 

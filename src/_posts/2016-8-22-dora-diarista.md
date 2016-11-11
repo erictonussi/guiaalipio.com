@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dora diarista
+title: Dora Diarista
 description: Faxina
 image: 04.jpg
-tags: faxima limpeza
+tags: limpeza diarista faxina faxineira higiene
 telefone: (31) 9 8729-4410
 e-mail: 
 endereco:

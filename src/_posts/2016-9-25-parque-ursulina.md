@@ -3,14 +3,14 @@ layout: post
 title: Ursulina de A. Melo
 description: Parque
 image: 38.jpg
-tags: parque lazer entretenimento
+tags: parque lazer entretenimento utilidade-publica
 telefone: (31) 3277-7112
 e-mail:   
 site: www.pbh.gov.br/parques
 endereco: 
     Rua Dr. Sylvio Menicucci, 640
-    Castelo
-    Belo Horizonte, MG
+   </br>  Castelo
+    </br> Belo Horizonte - MG
 ---
 
 # Parque
