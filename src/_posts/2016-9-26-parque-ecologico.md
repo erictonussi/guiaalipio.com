@@ -31,7 +31,7 @@ Entrada gratuita.
 **Horário de Funcionamento:**
 Terça a domingo, das 7h às 18h  
 
-Fonte: http://portalpbh.pbh.gov.br/pbh/ecp/noticia.do?evento=portlet&pAc=not&idConteudo=125581&pIdPlc=&app=salanoticias
+Fonte: [portalpbh.pbh.gov.br](http://portalpbh.pbh.gov.br/pbh/ecp/noticia.do?evento=portlet&pAc=not&idConteudo=125581&pIdPlc=&app=salanoticias)  
 
 
 

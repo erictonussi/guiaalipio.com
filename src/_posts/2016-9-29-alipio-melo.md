@@ -2,6 +2,7 @@
 layout: post
 title: Alípio de Melo
 description: Bairro
+highlight: true
 image: 42.jpg
 tags: Alípio de Melo bairro
 telefone: 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Michelle Paixão
-description: Faxina
+title: Michelle
+description: Diarista
 image: 56.jpg
 tags: limpeza diarista faxina faxineira higiene
 telefone: (31) 9 9774-6103 
