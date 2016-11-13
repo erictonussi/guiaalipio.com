@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://guiaalipio.com.br//inox-minas.html</loc>
+<lastmod>2016-10-13T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://guiaalipio.com.br//divaldo-carroceiro.html</loc>
 <lastmod>2016-10-12T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://guiaalipio.com.br//michelle-paixao-diarista.html</loc>
+<loc>http://guiaalipio.com.br//michelle-diarista.html</loc>
 <lastmod>2016-10-11T00:00:00-03:00</lastmod>
 </url>
 <url>
@@ -704,5 +708,14 @@
 </url>
 <url>
 <loc>http://guiaalipio.com.br//tag/carroceiro.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com.br//tag/inox-minas.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com.br//tag/inox.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com.br//tag/equipamentos-instale.html</loc>
 </url>
 </urlset>
