@@ -1,8 +1,8 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
 title: Guia Alípio
-description: Guia Alípio
-url: http://guiaalipio.com.br/
+description: O Guia Alípio surgiu da necessidade de integração entre serviços, comércio e moradores do bairro Alípio de Melo e região. Conhecendo o espaço que nos cerca, poupamos tempo, dinheiro e criamos uma rede de interações cada vez mais fortalecida. E aí, vamos aquecer nossa região?
+url: http://guiaalipio.com
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/src
