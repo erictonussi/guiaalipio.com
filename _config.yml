@@ -3,6 +3,7 @@
 title: Guia Alípio
 description: O Guia Alípio surgiu da necessidade de integração entre serviços, comércio e moradores do bairro Alípio de Melo e região. Conhecendo o espaço que nos cerca, poupamos tempo, dinheiro e criamos uma rede de interações cada vez mais fortalecida. E aí, vamos aquecer nossa região?
 url: http://guiaalipio.com
+logo: /favicon.png
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/src
@@ -33,7 +34,7 @@ show_drafts: true
 # Disables the more accurate related posts for faster generating of the site
 lsi: false
 # Only make the last 10 posts so generating isn't slow
-limit_posts: 10000
+limit_posts: 0
 
 # Permalink structure and pagination options
 permalink: none

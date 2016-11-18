@@ -149,7 +149,7 @@
 				}
 			}
 
-            &.highlight {
+            .highlight & {
                 width: 33.3333vw;
                 h3 {
                     font-size: 1.8em;
@@ -170,7 +170,7 @@
 			article {
 				width: 33.3333% !important;
                 height: 10em;
-                &.highlight {
+                .highlight & {
                     width: 50vw !important;
                 }
 			}
@@ -188,7 +188,7 @@
 					font-size: 1.5em;
 				}
 
-                &.highlight {
+                .highlight & {
                     width: 100vw !important;
                 }
 			}

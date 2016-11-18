@@ -72,6 +72,7 @@
 	}
 
 	input[type="text"],
+	input:not([type]),
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
@@ -123,6 +124,7 @@
 	}
 
 	input[type="text"],
+	input:not([type]),
 	input[type="password"],
 	input[type="email"],
 	select {
