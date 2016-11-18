@@ -126,7 +126,7 @@ gulp.task('serve', (done) => {
   done();
 
   // Watch various files for changes and do the needful
-  gulp.watch(['src/**/*.md', 'src/**/*.html', 'src/**/*.yml'], gulp.series('build:site', reload));
+  gulp.watch(['src/**/*.md', 'src/**/*.html', '**/*.yml'], gulp.series('build:site', reload));
   gulp.watch(['src/**/*.xml', 'src/**/*.txt'], gulp.series('site', reload));
   gulp.watch('src/assets/js/**/*.js', gulp.series('scripts', reload));
   gulp.watch('src/assets/scss/**/*.scss', gulp.series('styles'));
