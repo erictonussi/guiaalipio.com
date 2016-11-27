@@ -6,7 +6,7 @@ highlight: true
 image: 27.jpg
 tags: engenharia agrimensura  
 telefone: (31) 9 9974–1404 (Vânio) 
-           </br>(31) 9 9745–7532 (Walderley) 
+           </br>(31) 9 9745–7532 (Wanderley) 
            </br>(31) 9 9283–0133 (Ricardo)
 e-mail:   Eng. Vânio Lúcio Lopes Pinto
          </br>(engvanio@hotmail.com)         

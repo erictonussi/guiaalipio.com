@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Praça do coreto
+title: Praça do Coreto
 description: Praça
 image: 37.jpg
 tags: praça lazer utilidade-publica
