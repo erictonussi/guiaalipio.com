@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://guiaalipio.com/acompanhamento-escolar.html</loc>
+<lastmod>2016-10-15T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://guiaalipio.com/avanti.html</loc>
+<lastmod>2016-10-14T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://guiaalipio.com/inox-minas.html</loc>
 <lastmod>2016-10-13T00:00:00-03:00</lastmod>
 </url>
@@ -717,5 +725,20 @@
 </url>
 <url>
 <loc>http://guiaalipio.com/tag/equipamentos-instale.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/seguro.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/protecao-veicular.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/aula-particular.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/aulas-particulares.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/acompanhamento-escolar.html</loc>
 </url>
 </urlset>
