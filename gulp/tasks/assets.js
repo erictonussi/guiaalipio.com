@@ -32,6 +32,7 @@ gulp.task('scripts', () =>
     'src/assets/js/util.js',
     'src/assets/js/lightbox.min.js',
     'src/assets/js/jquery.jcarousel.min.js',
+    'src/assets/js/jquery.tmpl.min.js',
     'src/assets/js/main.js',
   ])
     .pipe(newer('.tmp/assets/javascript/index.js', {dest: '.tmp/assets/js', ext: '.js'}))

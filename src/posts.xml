@@ -1,0 +1,18 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<posts>
+{% for post in site.posts %}
+  {% unless post.draft %}
+    <post>
+      <url>{{ post.url }}</url>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.description | xml_escape }}</description>
+      <image>/assets/images/home/thumb/{{ post.image }}</image>
+      <tags>{{ post.tags | xml_escape }}</tags>
+      <content>{{ post.content | xml_escape }}</content>
+    </post>
+  {% endunless %}
+{% endfor %}
+</posts>

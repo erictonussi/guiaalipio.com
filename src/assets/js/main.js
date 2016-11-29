@@ -515,3 +515,64 @@ function codeAddress(query) {
     }
   });
 }
+
+//Busca
+var entries;
+function busca(searchText) {
+  
+  $( '.search-result ul' ).empty();
+  
+  if ( searchText.length < 3 ) return;
+  
+  if ( !entries ) {
+    
+    $.get('/posts.xml' , function (data) {
+      entries = $(data).find('post');
+      // $(data).find("entry").each(function () { // or "item" or whatever suits your feed
+      //   var el = $(this);
+      //   el.find('category').each(function(){
+      //     var el = $(this);
+      //     console.log(el.attr('term'));
+      //   });
+      // });
+      
+      busca(searchText);
+      
+    });
+    
+    return;
+    
+  }
+  
+  function accentFold(inStr) {
+    return inStr.replace(/([àáâãäå])|([ç])|([èéêë])|([ìíîï])|([ñ])|([òóôõöø])|([ß])|([ùúûü])|([ÿ])|([æ])/g, function(str,a,c,e,i,n,o,s,u,y,ae) { if(a) return 'a'; else if(c) return 'c'; else if(e) return 'e'; else if(i) return 'i'; else if(n) return 'n'; else if(o) return 'o'; else if(s) return 's'; else if(u) return 'u'; else if(y) return 'y'; else if(ae) return 'ae'; });
+  }
+  
+  var searchText_fold = accentFold(searchText.toLowerCase());
+  
+  var $person = $(entries).filter(function() {
+    var content = accentFold( $(this).text().toLowerCase() )
+    return content.indexOf(searchText_fold) != -1;
+  }).closest('post');
+  
+  var posts = [];
+  
+  $person.each(function(){
+    var el = $(this);
+    
+    posts.push({
+      url:          el.find('url').text(),
+      title:        el.find('title').text(),
+      description:  el.find('description').text(),
+      image:        el.find('image').text(),
+      tags:         el.find('tags').text()
+    });
+  });
+  
+  var tpl_noticia = '<li><a href="${url}"><h3>${title}</h3> <h4>(${description})</h4></a></li>';
+  
+  $.tmpl( tpl_noticia, posts ).appendTo( '.search-result ul' );
+  
+  // console.log($person);
+  
+}
