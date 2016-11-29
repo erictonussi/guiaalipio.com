@@ -4,7 +4,7 @@ title: Rigihendi
 description: Engenharia de Agrimensura e Civil
 highlight: true
 image: 27.jpg
-tags: engenharia agrimensura  
+tags: engenharia engenheiro civil agrimensura 
 telefone: (31) 9 9974–1404 (Vânio) 
            </br>(31) 9 9745–7532 (Wanderley) 
            </br>(31) 9 9283–0133 (Ricardo)

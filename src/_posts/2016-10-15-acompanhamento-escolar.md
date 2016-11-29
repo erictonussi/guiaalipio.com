@@ -9,13 +9,13 @@ e-mail:
 site: 
 endereco: 
     Rua Litorânea, 112 
-   </br> Serrano CEP 30882-070
+    </br> Serrano CEP 30882-070
     </br> Belo Horizonte - MG
 ---
 
 # Aulas Particulares
 
-Ensino fundamental até o 1° ano do ensino médio
+Ensino fundamental até o 3° ano do ensino médio
 
 * Geografia
 * História
@@ -27,12 +27,4 @@ Ensino fundamental até o 1° ano do ensino médio
 * Português
 * Matemática
 
-Valores: R$50,00 hora/aula ou R$40,00 hora/aula em grupo de 3 alunos.
-
-
-
-
-
-
-
-
+Confira nossos valores.
