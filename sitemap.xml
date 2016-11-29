@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://guiaalipio.com/bela-bartok.html</loc>
+<lastmod>2016-10-16T01:00:00-02:00</lastmod>
+</url>
+<url>
 <loc>http://guiaalipio.com/acompanhamento-escolar.html</loc>
 <lastmod>2016-10-15T00:00:00-03:00</lastmod>
 </url>
@@ -53,7 +57,7 @@
 <lastmod>2016-10-03T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://guiaalipio.com/GCAM.html</loc>
+<loc>http://guiaalipio.com/gcam.html</loc>
 <lastmod>2016-10-02T00:00:00-03:00</lastmod>
 </url>
 <url>
@@ -529,6 +533,12 @@
 <loc>http://guiaalipio.com/tag/engenharia.html</loc>
 </url>
 <url>
+<loc>http://guiaalipio.com/tag/engenheiro.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/civil.html</loc>
+</url>
+<url>
 <loc>http://guiaalipio.com/tag/agrimensura.html</loc>
 </url>
 <url>
@@ -661,9 +671,6 @@
 <loc>http://guiaalipio.com/tag/restaurante.html</loc>
 </url>
 <url>
-<loc>http://guiaalipio.com/tag/civil.html</loc>
-</url>
-<url>
 <loc>http://guiaalipio.com/tag/pedreiro.html</loc>
 </url>
 <url>
@@ -740,5 +747,17 @@
 </url>
 <url>
 <loc>http://guiaalipio.com/tag/acompanhamento-escolar.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/escola-de-musica.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/escola-musica.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/musica.html</loc>
+</url>
+<url>
+<loc>http://guiaalipio.com/tag/instrumentos-musicais.html</loc>
 </url>
 </urlset>
