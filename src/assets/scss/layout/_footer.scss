@@ -16,9 +16,10 @@
 				border-left: solid 1px _palette(border);
 				color: _palette(fg-light);
 				display: inline-block;
-				line-height: 1;
+				line-height: 32px;
 				margin-left: 1em;
 				padding-left: 1em;
+				float: left;
 
 				&:first-child {
 					border-left: 0;
@@ -38,5 +39,9 @@
 					line-height: inherit;
 				}
 			}
+		}
+
+		.icons {
+			float: right;
 		}
 	}
