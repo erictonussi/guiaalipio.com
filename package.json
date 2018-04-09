@@ -7,6 +7,10 @@
     "name": "Eric Tonussi",
     "email": "eric@tonussi.com"
   },
+  "scripts": {
+    "serve": "gulp",
+    "build": "gulp build --prod"
+  },
   "devDependencies": {
     "autoprefixer": "^6.2.3",
     "babel-preset-es2015": "^6.9.0",
