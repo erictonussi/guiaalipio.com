@@ -68,3 +68,4 @@ dist
 aws-credentials.json
 rsync-credentials.json
 src/assets/images/img.html
+Gemfile.lock
